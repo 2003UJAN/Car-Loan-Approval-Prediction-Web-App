@@ -1,0 +1,1001 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Car_Model,Car_Price,Loan_Status
+Male,No,2,Not Graduate,No,28354,46313,2320908,60,0,Semiurban,Truck,2313948,N
+Female,Yes,3+,Not Graduate,Yes,32190,44571,1160673,360,1,Semiurban,Coupe,1713575,Y
+Male,Yes,1,Not Graduate,Yes,16142,26829,2217534,300,1,Semiurban,Truck,762530,N
+Male,Yes,3+,Not Graduate,Yes,38398,35062,611362,240,1,Semiurban,SUV,2014520,Y
+Male,Yes,3+,Graduate,No,61971,3630,1839527,300,1,Urban,Convertible,2542361,Y
+Female,Yes,2,Graduate,No,51862,47861,2536503,300,1,Rural,Van,3937892,N
+Male,No,3+,Not Graduate,No,63410,31870,676298,300,1,Urban,Convertible,717767,Y
+Male,Yes,2,Graduate,No,29503,49298,973288,360,1,Urban,Sedan,1609970,Y
+Male,No,0,Not Graduate,No,58456,47221,2862854,180,1,Semiurban,Convertible,2188241,N
+Female,No,0,Graduate,No,92035,44942,2909409,300,1,Rural,SUV,1146004,N
+Male,Yes,2,Not Graduate,No,18016,3453,2388007,120,1,Semiurban,Sedan,687486,N
+Male,Yes,0,Not Graduate,Yes,12384,37275,2259814,120,1,Urban,Hatchback,3569472,N
+Male,No,1,Graduate,No,72320,43370,2239122,60,1,Urban,Convertible,2128782,Y
+Male,Yes,3+,Graduate,Yes,25072,38396,1275292,180,0,Semiurban,Convertible,3888284,N
+Female,Yes,1,Not Graduate,Yes,90018,8328,2833647,60,1,Urban,Van,1926360,N
+Male,No,3+,Not Graduate,No,50510,15534,2878525,120,1,Urban,Sedan,2233391,N
+Female,No,0,Graduate,No,58933,19744,2410217,120,1,Semiurban,Coupe,866590,Y
+Female,Yes,1,Graduate,Yes,31826,19389,2100741,240,1,Urban,Convertible,3815535,Y
+Female,No,0,Not Graduate,Yes,78026,36320,689073,300,1,Rural,SUV,594702,Y
+Male,Yes,3+,Graduate,No,35518,49170,859281,120,1,Semiurban,Convertible,2702661,Y
+Female,Yes,2,Not Graduate,No,34045,35010,719707,360,1,Rural,Van,855752,Y
+Male,Yes,2,Not Graduate,Yes,60876,14665,2838401,360,1,Urban,Hatchback,1662886,N
+Female,No,1,Not Graduate,No,61919,37865,1585610,60,0,Urban,Van,3429386,N
+Female,No,0,Not Graduate,No,37103,8640,671389,60,1,Semiurban,Convertible,1058910,Y
+Female,No,0,Graduate,No,46188,34716,1559165,300,0,Urban,Coupe,2707087,N
+Female,No,1,Graduate,Yes,15845,25521,1605797,300,1,Semiurban,Truck,2857592,N
+Female,No,2,Graduate,Yes,96698,30049,1325963,240,1,Semiurban,Convertible,3763647,Y
+Female,Yes,3+,Graduate,Yes,46674,5618,1076515,180,0,Semiurban,Sedan,3517253,N
+Female,Yes,1,Graduate,No,29337,37004,2862460,60,1,Semiurban,Convertible,1458101,N
+Female,Yes,3+,Graduate,No,32313,1920,593078,300,1,Semiurban,Coupe,1196314,Y
+Male,Yes,2,Graduate,Yes,36943,43937,2550053,60,1,Rural,Sedan,569519,N
+Male,No,0,Not Graduate,Yes,87949,4188,1327679,300,1,Semiurban,SUV,1211475,Y
+Female,Yes,2,Graduate,Yes,10276,12207,1259401,120,1,Rural,Sedan,1460655,Y
+Female,No,1,Graduate,No,61151,238,2485681,60,1,Urban,Van,3902315,Y
+Female,Yes,0,Not Graduate,Yes,27611,32972,2560046,120,0,Semiurban,Hatchback,1696688,N
+Male,No,1,Graduate,Yes,21944,10799,2319231,60,1,Urban,Van,2641924,N
+Female,No,1,Graduate,No,62887,5552,1426921,180,0,Semiurban,Truck,2719583,N
+Male,Yes,2,Not Graduate,No,91442,28916,2049317,240,0,Rural,Sedan,3479674,N
+Male,Yes,1,Graduate,No,59847,4927,568207,360,1,Rural,SUV,2792056,Y
+Male,Yes,2,Graduate,Yes,68653,27964,2931351,360,1,Rural,Convertible,658988,N
+Male,Yes,0,Graduate,No,96072,11164,1388698,360,0,Urban,Sedan,3428455,N
+Male,No,2,Not Graduate,No,66622,37158,2708578,120,0,Semiurban,Van,3111895,N
+Female,Yes,0,Graduate,Yes,37810,19071,2059657,300,1,Urban,Sedan,2361380,Y
+Female,Yes,2,Graduate,No,87842,48409,2731946,360,1,Rural,Sedan,2527787,N
+Female,No,3+,Not Graduate,Yes,20503,6160,2243967,180,1,Urban,Sedan,539080,N
+Female,Yes,3+,Graduate,Yes,94761,15810,1045726,360,1,Rural,SUV,606242,Y
+Female,Yes,1,Not Graduate,No,46976,5126,2641008,60,1,Rural,Coupe,1329154,N
+Male,Yes,2,Not Graduate,No,21590,30009,942244,120,1,Rural,Coupe,3111232,Y
+Female,Yes,2,Graduate,No,20886,33584,1336309,60,1,Semiurban,Sedan,3674776,Y
+Female,Yes,0,Not Graduate,No,22866,46182,990999,60,1,Semiurban,SUV,2158069,Y
+Male,No,1,Not Graduate,No,76624,25396,1117762,60,1,Rural,SUV,1427281,Y
+Female,Yes,2,Graduate,No,78899,192,2506549,240,1,Urban,Truck,3962583,N
+Male,Yes,1,Not Graduate,Yes,42792,36413,2942432,240,1,Urban,Sedan,667403,N
+Female,Yes,3+,Not Graduate,Yes,19764,12816,2288053,300,1,Semiurban,Van,756392,N
+Male,Yes,2,Graduate,No,96156,39082,907407,120,1,Rural,Van,520968,Y
+Female,Yes,2,Graduate,Yes,52727,32130,1371158,180,1,Urban,Hatchback,3880145,Y
+Female,No,1,Graduate,No,88471,40142,1803306,180,1,Rural,Sedan,2084156,Y
+Male,Yes,2,Not Graduate,Yes,18068,36468,1795308,180,0,Urban,Hatchback,3373382,N
+Male,No,1,Graduate,Yes,17295,30698,920602,60,1,Semiurban,Van,3555450,Y
+Male,No,2,Not Graduate,Yes,51160,10655,2127650,240,1,Rural,Van,1890179,Y
+Male,Yes,0,Not Graduate,No,21390,47897,2873000,120,1,Rural,Sedan,3433776,N
+Male,Yes,1,Not Graduate,Yes,30131,30075,556635,60,0,Urban,Hatchback,2157057,N
+Male,Yes,2,Not Graduate,No,85969,9359,1901430,240,1,Urban,Hatchback,3190605,Y
+Male,Yes,3+,Not Graduate,Yes,25038,36661,2843136,240,1,Urban,Sedan,1354082,N
+Male,No,2,Not Graduate,Yes,62327,39579,1873713,360,1,Rural,Truck,2041773,Y
+Female,Yes,3+,Not Graduate,Yes,87064,42056,1661328,360,1,Semiurban,Hatchback,1246470,Y
+Female,Yes,3+,Graduate,Yes,31281,33272,728584,120,1,Semiurban,Truck,2432893,Y
+Male,Yes,0,Graduate,Yes,64189,42581,2730038,120,1,Urban,Convertible,653329,N
+Female,Yes,1,Not Graduate,No,58511,14671,1627113,120,1,Semiurban,Van,1649164,Y
+Female,Yes,2,Not Graduate,No,18605,27048,2220444,60,1,Urban,Coupe,3374262,N
+Female,Yes,0,Graduate,Yes,11381,10738,585166,300,1,Semiurban,Truck,2072762,Y
+Female,No,2,Not Graduate,Yes,76634,25963,2973006,120,1,Rural,Truck,2418517,N
+Male,No,3+,Graduate,Yes,29810,43954,2905631,360,0,Urban,Truck,2295209,N
+Female,Yes,1,Graduate,Yes,34322,6773,1364285,300,1,Semiurban,SUV,3959544,Y
+Male,Yes,2,Graduate,No,51869,36584,797883,60,0,Rural,Hatchback,3577964,N
+Female,Yes,2,Not Graduate,Yes,42955,29894,663052,300,1,Semiurban,Hatchback,3330095,Y
+Female,No,3+,Not Graduate,No,71388,717,1256079,180,1,Rural,SUV,2061128,Y
+Female,Yes,2,Graduate,Yes,20207,11676,2420024,300,1,Rural,Hatchback,3929985,N
+Male,No,2,Graduate,No,97329,4434,1943401,120,0,Semiurban,SUV,1811414,N
+Female,Yes,3+,Graduate,Yes,77628,49810,2663405,60,1,Semiurban,Truck,515588,N
+Male,Yes,0,Graduate,Yes,38220,37825,1115416,120,1,Rural,Sedan,3314268,Y
+Female,Yes,3+,Graduate,No,94050,29100,2758233,360,1,Rural,Convertible,957301,N
+Male,Yes,0,Not Graduate,Yes,84085,4994,1686430,180,1,Rural,Truck,3363871,Y
+Female,No,1,Graduate,Yes,32031,4234,2412162,360,1,Urban,Convertible,2842608,Y
+Male,No,0,Not Graduate,Yes,80721,3764,2279810,120,1,Rural,Van,3710101,Y
+Male,Yes,0,Graduate,No,90807,43949,1660714,120,1,Urban,Truck,1030992,Y
+Female,Yes,1,Not Graduate,Yes,81312,37405,812916,120,1,Rural,Coupe,1588712,Y
+Male,No,0,Not Graduate,Yes,69766,34872,540149,240,1,Urban,Hatchback,547361,Y
+Female,No,3+,Not Graduate,No,22449,42215,848844,180,1,Rural,Coupe,3442431,Y
+Female,No,0,Not Graduate,No,99833,23185,628447,120,1,Rural,Sedan,2739665,Y
+Female,No,1,Not Graduate,No,66699,43442,1554271,120,1,Rural,Convertible,514677,Y
+Female,Yes,3+,Not Graduate,Yes,91253,41153,2112033,360,1,Semiurban,Truck,3909740,Y
+Female,No,1,Graduate,Yes,56092,11999,1180913,360,1,Semiurban,Sedan,2156455,Y
+Female,Yes,1,Not Graduate,Yes,73671,36487,1914474,120,0,Rural,Sedan,2458970,N
+Female,No,2,Graduate,No,20350,2581,853039,60,0,Urban,Hatchback,1877984,N
+Female,No,2,Not Graduate,Yes,78487,2763,1861425,240,0,Urban,Sedan,2146032,N
+Female,No,1,Not Graduate,Yes,27622,27374,2790146,360,1,Rural,Truck,2215979,N
+Female,No,1,Graduate,No,80263,38759,1926420,60,1,Semiurban,Truck,2669091,Y
+Female,No,1,Not Graduate,No,63117,10531,1550457,240,1,Urban,Convertible,3923604,Y
+Male,Yes,2,Graduate,No,68394,25307,2505647,120,1,Semiurban,Truck,2390252,N
+Male,Yes,2,Graduate,No,33782,30835,2906661,180,1,Urban,Coupe,3008894,N
+Female,No,0,Graduate,No,38454,11064,2069720,300,1,Rural,Convertible,2344348,Y
+Female,No,0,Graduate,Yes,77904,11312,1627787,300,0,Semiurban,Hatchback,1259848,N
+Female,Yes,1,Not Graduate,No,25592,37548,1487626,120,0,Urban,Convertible,3405978,N
+Female,No,3+,Not Graduate,Yes,32173,36945,1440335,360,1,Rural,SUV,1909277,Y
+Female,No,3+,Graduate,Yes,43204,47937,2435657,60,1,Rural,Coupe,1683750,Y
+Female,Yes,2,Not Graduate,No,45596,6476,2482539,180,1,Rural,SUV,3092214,Y
+Female,No,2,Not Graduate,No,44324,24565,1459820,240,1,Semiurban,SUV,2092023,Y
+Female,No,2,Graduate,No,71202,2382,1219846,120,1,Semiurban,Van,622366,Y
+Male,Yes,1,Not Graduate,Yes,99400,49683,2209813,180,1,Rural,Truck,2793316,Y
+Female,Yes,3+,Graduate,No,40750,22463,1588129,180,1,Semiurban,Hatchback,1292644,Y
+Male,Yes,0,Graduate,No,86112,45276,2055929,360,1,Urban,Sedan,2039152,Y
+Female,No,1,Not Graduate,No,26566,33402,1409210,240,1,Rural,SUV,1323837,Y
+Female,Yes,0,Not Graduate,No,17190,26345,2452026,180,1,Rural,Convertible,892776,N
+Male,Yes,0,Not Graduate,No,98607,44764,532766,360,1,Semiurban,Sedan,1887781,Y
+Female,Yes,1,Graduate,Yes,48333,26946,2546023,60,0,Rural,Convertible,856440,N
+Male,Yes,0,Graduate,Yes,90905,14162,1055710,360,1,Urban,Convertible,1341618,Y
+Female,Yes,3+,Not Graduate,Yes,99571,49154,2594966,60,1,Semiurban,Sedan,1461743,N
+Female,Yes,0,Not Graduate,No,11589,46773,774349,60,1,Semiurban,Sedan,2296929,Y
+Male,No,3+,Not Graduate,No,35235,8397,979806,180,1,Rural,Truck,1034820,Y
+Female,No,3+,Not Graduate,No,10159,22335,2315419,360,0,Rural,Convertible,2807278,N
+Male,Yes,3+,Graduate,Yes,22145,45095,1960235,60,1,Rural,Hatchback,1489516,N
+Female,Yes,2,Not Graduate,No,90909,14394,1958316,240,1,Semiurban,Truck,1535340,Y
+Male,Yes,0,Graduate,No,41921,27197,1927197,180,1,Rural,Coupe,3862079,Y
+Male,No,1,Graduate,No,26237,22010,1576778,360,0,Urban,Van,3974412,N
+Female,No,1,Not Graduate,Yes,18244,24123,939358,360,1,Rural,Coupe,603021,Y
+Female,No,0,Not Graduate,No,24743,22387,1237744,300,1,Rural,Hatchback,3386855,Y
+Male,No,2,Not Graduate,Yes,56101,2890,2618007,360,1,Semiurban,Truck,2511562,N
+Female,No,2,Graduate,No,94227,27769,811385,180,1,Rural,Van,500209,Y
+Female,No,3+,Not Graduate,Yes,66378,43626,2820220,240,1,Semiurban,Truck,722071,N
+Female,No,0,Not Graduate,Yes,81126,8026,2563534,360,1,Rural,Sedan,3629497,N
+Male,No,0,Graduate,Yes,66071,3306,2953579,300,1,Urban,Van,3403561,N
+Male,No,1,Not Graduate,No,81121,33665,1433476,180,0,Urban,Convertible,1753790,N
+Male,Yes,0,Graduate,No,84763,9277,2720957,60,1,Semiurban,Coupe,1658496,N
+Male,Yes,2,Not Graduate,Yes,22237,42239,2428854,120,1,Semiurban,Van,2958884,N
+Male,Yes,0,Graduate,Yes,25649,47664,1309359,120,1,Rural,Convertible,1879404,Y
+Male,Yes,1,Not Graduate,No,47713,48008,2712809,60,1,Rural,Truck,1778720,N
+Male,No,3+,Not Graduate,No,83463,14683,2701580,360,1,Urban,Hatchback,3507446,N
+Male,No,1,Graduate,Yes,55409,670,2719187,120,1,Rural,Van,3913479,N
+Male,Yes,1,Graduate,No,58766,23675,1994139,120,1,Urban,Convertible,716194,Y
+Female,No,3+,Not Graduate,No,56154,17889,1779356,60,1,Semiurban,Truck,2954082,Y
+Male,Yes,1,Graduate,No,17016,44535,2290146,360,1,Rural,Truck,2985702,N
+Female,No,1,Graduate,No,89563,13006,569518,360,1,Semiurban,Truck,2780163,Y
+Female,Yes,0,Graduate,Yes,58688,48536,676355,60,1,Rural,Hatchback,3271106,Y
+Female,No,0,Graduate,No,99678,26531,2416334,360,1,Urban,Sedan,507399,Y
+Male,No,3+,Not Graduate,No,64238,21639,620243,360,1,Semiurban,Hatchback,2062818,Y
+Male,Yes,0,Not Graduate,Yes,68608,16633,1507378,180,0,Semiurban,Hatchback,1442621,N
+Male,No,0,Graduate,Yes,99081,34660,2347756,180,0,Rural,Coupe,2695814,N
+Male,Yes,1,Graduate,No,41897,3439,2993460,60,1,Semiurban,Truck,3941489,N
+Female,Yes,2,Graduate,No,60961,32172,2619844,240,1,Urban,Convertible,1162858,N
+Male,Yes,0,Graduate,No,78703,35622,2197818,120,1,Semiurban,Van,2437834,Y
+Male,Yes,2,Not Graduate,No,54757,11577,2989331,180,0,Semiurban,Coupe,1272592,N
+Male,No,0,Not Graduate,Yes,36917,11763,2818620,120,1,Rural,Truck,3513435,N
+Male,No,0,Graduate,Yes,32736,20176,2677304,300,1,Semiurban,SUV,2970373,N
+Male,No,3+,Graduate,Yes,37990,44386,2601121,60,1,Rural,Hatchback,1534023,N
+Female,Yes,3+,Graduate,No,72551,24255,1584309,240,0,Rural,SUV,1296060,N
+Male,No,3+,Not Graduate,No,68161,41003,2929151,300,1,Semiurban,Truck,893545,N
+Female,Yes,2,Graduate,No,89623,19996,541743,300,1,Urban,Coupe,800763,Y
+Male,No,1,Not Graduate,No,32440,35386,2203057,360,1,Rural,Convertible,1555608,Y
+Female,No,0,Graduate,Yes,45205,21062,670948,300,1,Semiurban,Coupe,3945906,Y
+Male,No,0,Not Graduate,Yes,90811,35931,1393877,60,1,Rural,Convertible,3224098,Y
+Male,Yes,0,Graduate,No,65103,35710,2617475,180,1,Urban,Convertible,1407555,N
+Female,No,2,Not Graduate,Yes,80812,34693,1827148,60,1,Urban,Truck,2064458,Y
+Female,No,3+,Graduate,No,51627,35740,1001793,180,1,Rural,Sedan,2421166,Y
+Female,Yes,1,Graduate,No,29008,11705,826284,300,1,Urban,Truck,2166984,Y
+Male,No,2,Graduate,Yes,81274,43408,2330314,300,1,Semiurban,Hatchback,547850,Y
+Female,Yes,3+,Not Graduate,No,42402,28047,2418837,240,1,Semiurban,Coupe,2077586,Y
+Male,No,2,Graduate,No,63384,10966,768508,180,1,Rural,Convertible,779916,Y
+Male,Yes,1,Not Graduate,Yes,15793,17374,891011,300,1,Urban,Truck,848249,Y
+Female,Yes,3+,Not Graduate,No,15571,11138,1977141,360,1,Semiurban,Truck,934895,N
+Female,No,2,Graduate,No,26209,15935,2204627,120,1,Semiurban,Coupe,1486275,N
+Male,Yes,1,Graduate,Yes,53148,45913,1282259,240,1,Semiurban,Coupe,504576,Y
+Male,Yes,0,Graduate,No,12224,489,2168462,60,0,Rural,Convertible,1910124,N
+Female,Yes,1,Not Graduate,Yes,58695,44516,2270403,240,1,Rural,Van,3032000,Y
+Female,Yes,0,Graduate,No,42441,22260,676968,120,1,Semiurban,SUV,2114340,Y
+Female,Yes,2,Not Graduate,Yes,49129,26069,2654214,180,1,Semiurban,Hatchback,3894020,N
+Male,Yes,3+,Not Graduate,Yes,72368,19275,1235122,60,1,Urban,Hatchback,1972077,Y
+Male,No,3+,Graduate,Yes,54760,36284,1776485,60,0,Urban,Van,1310586,N
+Male,Yes,2,Graduate,No,33478,39178,1006995,180,0,Urban,Sedan,3925037,N
+Male,Yes,3+,Graduate,Yes,81854,32821,2685454,240,1,Rural,Van,2611591,N
+Male,No,3+,Graduate,Yes,95716,16999,2567790,300,1,Semiurban,Sedan,1928931,N
+Male,No,0,Graduate,Yes,22180,38712,2572723,240,1,Rural,Sedan,3864851,N
+Female,No,2,Graduate,Yes,25372,40172,1533224,120,1,Semiurban,Van,2099826,N
+Male,No,1,Not Graduate,Yes,39796,33722,1065635,360,1,Urban,Hatchback,2520014,Y
+Male,No,0,Not Graduate,No,68272,10625,1027409,300,1,Urban,SUV,3360597,Y
+Male,No,2,Not Graduate,No,99963,1629,2680945,240,1,Urban,Hatchback,1848483,N
+Female,No,0,Graduate,No,64040,10973,2101028,360,1,Urban,Truck,616189,Y
+Male,Yes,1,Not Graduate,No,85357,6859,787635,360,0,Semiurban,Hatchback,1658866,N
+Male,Yes,1,Not Graduate,No,81368,41609,1083510,180,1,Urban,Hatchback,1481598,Y
+Female,No,2,Not Graduate,No,88356,43307,1028036,120,0,Semiurban,Van,1305896,N
+Male,Yes,1,Not Graduate,No,26211,45450,2099417,120,1,Semiurban,Van,1459540,N
+Male,Yes,0,Not Graduate,Yes,15842,36046,1084668,120,1,Rural,Truck,2721132,Y
+Male,Yes,1,Graduate,No,73115,21839,2641483,300,1,Urban,Truck,2824173,N
+Male,No,0,Graduate,Yes,76852,27216,1251393,60,1,Urban,Van,3285782,Y
+Male,No,0,Not Graduate,Yes,55968,18945,2193481,300,1,Rural,Hatchback,3688027,Y
+Female,Yes,1,Not Graduate,No,27508,6539,1325992,240,1,Semiurban,SUV,1241165,Y
+Female,No,2,Not Graduate,Yes,32005,49522,1100198,360,0,Urban,Sedan,531541,N
+Female,Yes,3+,Graduate,Yes,64575,33625,897891,360,1,Semiurban,Coupe,3981417,Y
+Male,Yes,1,Graduate,Yes,90742,4886,1000201,60,1,Rural,Sedan,975759,Y
+Male,Yes,0,Not Graduate,Yes,28971,45713,1541566,240,0,Semiurban,Truck,3344510,N
+Male,Yes,0,Graduate,No,35599,7485,1544863,60,1,Urban,Truck,629188,Y
+Female,No,1,Graduate,No,97592,31455,1558644,360,1,Semiurban,Sedan,708150,Y
+Male,No,2,Not Graduate,No,76914,46448,1387198,300,1,Semiurban,Coupe,3073338,Y
+Male,No,2,Graduate,No,77055,16767,2119282,120,0,Urban,Hatchback,2358777,N
+Female,Yes,0,Graduate,No,97697,47165,2335295,360,0,Urban,SUV,2816225,N
+Male,No,0,Not Graduate,No,15355,28453,1570913,180,0,Semiurban,SUV,980620,N
+Female,Yes,2,Graduate,No,64120,10744,747667,120,1,Semiurban,Sedan,1044444,Y
+Female,No,3+,Graduate,No,84619,37102,1156521,360,0,Rural,Coupe,1241196,N
+Female,Yes,1,Not Graduate,No,48342,12226,1387099,300,1,Urban,Truck,1992273,Y
+Male,Yes,0,Graduate,No,95992,27869,1900791,60,1,Semiurban,Convertible,1168795,Y
+Male,Yes,0,Graduate,Yes,88860,22588,1917231,120,1,Urban,Hatchback,1225010,Y
+Male,No,2,Not Graduate,No,12257,13440,2031181,300,1,Rural,Sedan,3298848,N
+Male,No,1,Not Graduate,Yes,37364,31709,907974,240,0,Semiurban,SUV,2502215,N
+Male,No,2,Not Graduate,Yes,34972,47788,633248,180,0,Semiurban,Truck,1622207,N
+Male,No,1,Graduate,Yes,36654,22495,1651882,120,1,Semiurban,Van,1324341,Y
+Male,Yes,1,Not Graduate,Yes,90769,37019,2761878,60,1,Urban,Van,3190927,N
+Female,No,1,Graduate,No,91423,44948,1444131,240,1,Rural,Coupe,3536124,Y
+Male,No,0,Not Graduate,Yes,39320,48908,2971321,300,0,Urban,Coupe,3082977,N
+Female,Yes,3+,Graduate,No,30808,922,1200270,180,1,Semiurban,Sedan,809799,Y
+Male,Yes,2,Not Graduate,No,62389,27526,590417,60,1,Rural,Convertible,927557,Y
+Male,Yes,3+,Not Graduate,Yes,44773,7957,928638,300,1,Semiurban,SUV,2315599,Y
+Male,No,2,Not Graduate,No,61168,48564,1560560,300,1,Semiurban,Sedan,3316694,Y
+Female,Yes,1,Not Graduate,Yes,37747,33998,1637888,120,1,Urban,Convertible,3697514,Y
+Female,Yes,0,Graduate,Yes,86396,43395,692458,120,0,Semiurban,Truck,2665456,N
+Female,Yes,3+,Not Graduate,No,93692,24031,1024608,60,1,Rural,Coupe,865750,Y
+Female,No,0,Not Graduate,No,67505,10006,2035963,360,1,Semiurban,Van,3823314,Y
+Male,Yes,2,Graduate,Yes,95896,37701,2423782,360,1,Semiurban,Hatchback,2193802,Y
+Female,No,0,Not Graduate,No,28135,47063,915105,300,1,Urban,Truck,984103,Y
+Male,No,0,Graduate,No,57377,25939,1908791,120,0,Rural,Van,2652259,N
+Male,Yes,3+,Not Graduate,No,33554,49145,1803659,180,1,Urban,SUV,3119210,Y
+Female,Yes,1,Not Graduate,Yes,72491,20324,2476850,180,1,Semiurban,SUV,3890919,Y
+Female,No,0,Not Graduate,Yes,65621,22867,2638929,300,1,Urban,Van,2205096,N
+Female,Yes,1,Graduate,No,68283,203,546250,120,1,Urban,Truck,2947193,Y
+Female,Yes,2,Not Graduate,No,95140,16544,1391372,60,1,Urban,Van,3718305,Y
+Female,No,0,Not Graduate,No,26923,15899,1850850,60,1,Urban,Convertible,3336815,N
+Female,No,3+,Not Graduate,No,57591,29063,975147,60,1,Semiurban,Sedan,3001214,Y
+Female,Yes,2,Graduate,No,72261,25344,2253282,180,1,Semiurban,Coupe,760933,Y
+Female,No,2,Graduate,Yes,64336,3748,2612368,120,1,Rural,Convertible,2177044,N
+Male,Yes,3+,Not Graduate,No,84083,39486,2943445,120,1,Urban,Hatchback,2879220,N
+Female,Yes,0,Graduate,Yes,70948,1093,1376336,180,1,Urban,Van,3266394,Y
+Female,Yes,0,Not Graduate,No,43002,15228,2742433,60,1,Rural,Hatchback,2284210,N
+Male,No,2,Not Graduate,Yes,90098,20884,1203803,60,0,Urban,Hatchback,1504059,N
+Female,Yes,0,Not Graduate,No,83016,25183,2087893,300,0,Rural,Convertible,3646823,N
+Male,Yes,1,Not Graduate,Yes,36672,16034,2009405,360,1,Semiurban,Coupe,2963501,Y
+Male,Yes,3+,Not Graduate,No,14213,5710,1234803,240,1,Rural,Truck,2244919,Y
+Female,No,1,Not Graduate,Yes,20293,42500,2785221,360,1,Urban,SUV,1528719,N
+Male,No,0,Not Graduate,Yes,65860,19259,614456,120,1,Rural,Sedan,2086987,Y
+Male,No,2,Graduate,Yes,72507,35959,1356841,120,0,Semiurban,SUV,3319127,N
+Male,No,3+,Graduate,Yes,67134,33457,2979840,120,1,Urban,Coupe,3085561,N
+Male,No,0,Graduate,Yes,12100,20143,1918060,360,1,Semiurban,SUV,1331710,N
+Female,Yes,0,Graduate,Yes,71997,2103,533783,240,0,Semiurban,Van,2432919,N
+Male,No,2,Graduate,No,38172,365,534152,300,0,Rural,Van,2556370,N
+Female,No,2,Graduate,Yes,30132,46778,944718,360,1,Semiurban,Convertible,2649151,Y
+Male,No,1,Graduate,No,28199,44535,2101956,240,1,Urban,Hatchback,2366161,N
+Male,Yes,3+,Not Graduate,No,46609,16103,648725,60,1,Semiurban,Coupe,3926216,Y
+Male,No,3+,Not Graduate,No,52965,32510,991215,60,1,Semiurban,Coupe,2303713,Y
+Male,No,2,Not Graduate,No,18016,24476,2303500,120,0,Rural,SUV,2110520,N
+Female,Yes,1,Not Graduate,No,49779,12742,2768693,180,0,Semiurban,Convertible,2798739,N
+Female,No,3+,Graduate,Yes,41881,12391,1408017,120,1,Rural,SUV,2333451,Y
+Male,Yes,2,Graduate,Yes,92594,36940,821898,180,1,Rural,SUV,763356,Y
+Male,Yes,0,Not Graduate,Yes,34472,28901,1185338,240,0,Urban,Coupe,2737225,N
+Female,Yes,3+,Not Graduate,No,61813,32001,2640321,60,1,Urban,SUV,1627360,N
+Male,Yes,1,Graduate,Yes,46021,15623,554745,360,1,Urban,Hatchback,3482307,Y
+Male,Yes,1,Not Graduate,Yes,64131,2378,2183032,180,1,Urban,SUV,843288,Y
+Male,No,1,Not Graduate,Yes,34087,21372,1138273,240,1,Rural,Hatchback,2502507,Y
+Female,Yes,0,Not Graduate,Yes,22828,44799,1538347,60,1,Semiurban,Coupe,3152808,N
+Female,Yes,3+,Not Graduate,Yes,71610,38437,2260328,360,1,Urban,Convertible,1609736,Y
+Female,No,3+,Graduate,No,11401,35503,2618219,180,1,Urban,Van,3278366,N
+Male,Yes,0,Not Graduate,Yes,95179,30746,2648185,120,1,Urban,Hatchback,2870011,N
+Male,No,3+,Not Graduate,No,25193,27923,545256,120,1,Semiurban,Convertible,1083072,Y
+Female,No,0,Graduate,No,54864,9867,2836607,120,1,Urban,Convertible,2988489,N
+Female,No,0,Graduate,No,30307,41258,1002264,240,1,Semiurban,Hatchback,1910364,Y
+Female,Yes,0,Not Graduate,No,29611,33724,1439695,120,0,Rural,Coupe,3672525,N
+Female,Yes,1,Graduate,No,53791,9306,2683955,300,1,Rural,Sedan,1858293,N
+Male,Yes,3+,Not Graduate,Yes,21950,39391,1752390,60,1,Rural,Convertible,2411128,N
+Female,No,0,Not Graduate,Yes,86240,14908,2715995,240,1,Semiurban,Convertible,1062193,N
+Male,Yes,3+,Graduate,Yes,87403,27081,979809,360,0,Urban,Coupe,1439077,N
+Female,Yes,1,Not Graduate,No,12745,37228,1761179,120,1,Urban,Coupe,1153939,N
+Male,Yes,0,Not Graduate,Yes,65243,23386,2267413,60,1,Urban,SUV,2925358,Y
+Female,No,2,Not Graduate,Yes,13866,46754,644282,180,1,Urban,Coupe,3951335,Y
+Female,No,1,Not Graduate,No,42245,45406,2471277,120,1,Urban,Convertible,599596,Y
+Female,Yes,2,Graduate,No,54724,28302,2317793,60,1,Semiurban,Hatchback,3478602,Y
+Female,Yes,3+,Graduate,No,81354,19212,1852206,300,1,Rural,Sedan,2351579,Y
+Male,Yes,3+,Not Graduate,No,61374,35618,1444740,180,1,Urban,Truck,2563356,Y
+Female,Yes,1,Graduate,Yes,40116,46067,2402716,300,1,Rural,SUV,1546072,Y
+Male,No,3+,Not Graduate,No,91029,10698,1660038,360,1,Semiurban,Truck,1174502,Y
+Male,No,2,Not Graduate,No,30447,4594,1696311,60,1,Semiurban,Hatchback,3408688,Y
+Male,No,0,Not Graduate,Yes,40431,25525,2428084,300,1,Urban,Sedan,2605777,Y
+Male,No,0,Not Graduate,Yes,27908,14282,749737,360,1,Semiurban,Sedan,1849919,Y
+Female,Yes,0,Not Graduate,No,39336,49053,642157,60,1,Rural,Sedan,909142,Y
+Male,Yes,1,Graduate,Yes,50992,14334,1900465,60,1,Urban,Van,2890514,Y
+Male,Yes,3+,Not Graduate,No,65350,29179,2787319,300,1,Urban,Hatchback,2248408,N
+Male,No,2,Graduate,No,79561,6644,1093805,60,0,Rural,SUV,2951212,N
+Female,Yes,3+,Graduate,Yes,61955,35618,2225089,120,0,Urban,SUV,1671758,N
+Female,No,3+,Not Graduate,Yes,71240,47701,1684895,60,1,Urban,Sedan,1581781,Y
+Female,No,3+,Not Graduate,No,30093,32933,1962603,240,1,Rural,Hatchback,3754812,Y
+Female,Yes,0,Not Graduate,No,16155,43469,1775029,360,1,Urban,Van,2626869,N
+Male,Yes,2,Not Graduate,No,56607,33687,636645,60,0,Urban,Sedan,3490876,N
+Male,Yes,2,Not Graduate,Yes,43487,41073,1542092,240,1,Rural,Coupe,1442639,Y
+Female,No,3+,Graduate,No,65668,17375,2152131,60,1,Semiurban,Truck,1491993,Y
+Male,Yes,0,Not Graduate,No,30963,48483,1686837,60,1,Rural,SUV,1849282,Y
+Male,No,0,Not Graduate,No,60124,30926,842221,300,1,Urban,Truck,2010902,Y
+Male,Yes,2,Graduate,No,62870,36607,2935919,120,0,Rural,Convertible,2617321,N
+Female,No,0,Graduate,No,66547,17642,1679580,360,1,Urban,Sedan,1477362,Y
+Female,No,0,Not Graduate,Yes,74110,23993,553687,120,1,Urban,Coupe,3405188,Y
+Male,Yes,0,Graduate,No,63554,44386,1354744,180,0,Rural,SUV,2948966,N
+Female,No,1,Not Graduate,No,30936,46287,1656191,300,1,Urban,Truck,2973901,Y
+Female,No,3+,Graduate,No,14426,21188,2990272,300,1,Semiurban,Van,3996610,N
+Female,Yes,2,Graduate,No,98839,32596,1479091,120,1,Urban,Hatchback,3249580,Y
+Female,No,2,Not Graduate,Yes,37606,27772,1104453,300,0,Rural,SUV,602537,N
+Female,Yes,1,Graduate,Yes,57832,30857,1082111,120,1,Semiurban,Truck,2319201,Y
+Male,No,3+,Graduate,Yes,38151,10776,2539660,300,1,Semiurban,Hatchback,3232741,N
+Female,Yes,2,Graduate,No,89303,32835,2519450,60,1,Urban,Truck,2867303,N
+Male,Yes,0,Graduate,No,21308,9788,1006554,120,1,Rural,Hatchback,1401347,Y
+Male,No,2,Graduate,Yes,72522,5660,2471140,120,1,Urban,Van,1780280,Y
+Female,No,0,Graduate,Yes,55671,4478,2551789,240,1,Urban,Van,3763147,N
+Male,No,1,Not Graduate,Yes,12204,8210,1627109,300,1,Rural,Sedan,1852507,N
+Male,No,0,Not Graduate,No,97265,10922,740011,300,0,Rural,Sedan,3433166,N
+Male,No,2,Graduate,No,41131,36289,1737903,120,1,Urban,SUV,2278727,Y
+Female,Yes,2,Not Graduate,Yes,62428,33340,2053744,60,1,Semiurban,Van,3350310,Y
+Female,No,2,Not Graduate,Yes,43870,39850,572684,60,1,Urban,Coupe,1292214,Y
+Male,Yes,1,Not Graduate,Yes,59067,38163,1998710,360,1,Semiurban,Truck,1091058,Y
+Female,Yes,1,Graduate,No,68585,48175,2288220,60,0,Urban,Truck,2176373,N
+Female,No,3+,Not Graduate,No,31607,18642,1765197,300,1,Rural,Truck,1779372,Y
+Female,Yes,2,Graduate,No,34968,11094,2330288,240,1,Semiurban,SUV,1315636,Y
+Female,Yes,0,Not Graduate,Yes,21908,22423,2491336,120,1,Rural,Truck,2090016,N
+Male,Yes,1,Graduate,Yes,36423,33418,2341646,180,1,Rural,Convertible,2072730,Y
+Male,Yes,2,Graduate,No,84707,5741,2106241,240,1,Rural,Hatchback,948402,Y
+Female,No,2,Not Graduate,Yes,88257,46049,2096246,180,1,Rural,Truck,2949851,Y
+Female,Yes,1,Not Graduate,No,71215,6838,2319239,240,1,Rural,Hatchback,2813248,Y
+Male,No,3+,Graduate,Yes,65835,3262,1211423,60,1,Urban,Sedan,1258019,Y
+Male,No,1,Not Graduate,Yes,59429,4996,2750618,300,1,Semiurban,Truck,781833,N
+Female,Yes,1,Not Graduate,Yes,92152,44594,734318,180,1,Urban,Coupe,2035834,Y
+Male,No,0,Not Graduate,Yes,48458,22164,2969930,240,0,Urban,Van,2942547,N
+Female,No,0,Graduate,No,56169,35595,631936,300,1,Urban,Van,1736968,Y
+Female,No,3+,Graduate,Yes,17659,30257,1457726,180,1,Rural,Sedan,3578882,Y
+Male,Yes,2,Not Graduate,No,70614,14211,2479746,120,1,Urban,Convertible,2260027,Y
+Male,No,1,Not Graduate,No,87240,30453,1147952,240,1,Semiurban,SUV,1917285,Y
+Female,No,3+,Not Graduate,No,42793,5232,2969970,120,1,Urban,SUV,2021093,N
+Female,No,0,Graduate,Yes,56473,2217,1368277,60,0,Rural,Coupe,2488022,N
+Male,Yes,1,Graduate,No,99388,24229,1796573,120,1,Semiurban,Sedan,1587288,Y
+Female,No,2,Not Graduate,No,98330,14232,1618166,120,0,Semiurban,Sedan,1281675,N
+Male,Yes,0,Not Graduate,No,65751,25613,2925767,360,1,Semiurban,Convertible,736502,N
+Female,Yes,0,Not Graduate,Yes,88915,14026,2064371,240,1,Semiurban,Truck,3842077,Y
+Male,Yes,0,Not Graduate,Yes,64254,28554,1854018,60,0,Urban,SUV,3957504,N
+Male,Yes,3+,Not Graduate,No,17006,30908,2004900,120,1,Rural,Truck,3552687,N
+Male,Yes,2,Not Graduate,Yes,84218,19610,2121788,300,0,Semiurban,Sedan,522551,N
+Female,Yes,1,Graduate,No,75344,46646,909925,180,1,Semiurban,Truck,3693796,Y
+Female,No,3+,Not Graduate,No,43840,39605,691896,120,0,Rural,Van,593608,N
+Male,Yes,3+,Graduate,Yes,42430,7031,1589118,60,1,Urban,Coupe,3157001,Y
+Female,No,3+,Not Graduate,No,33091,47574,913461,120,1,Semiurban,SUV,3779692,Y
+Male,No,0,Not Graduate,Yes,42983,25515,1583329,180,1,Urban,Convertible,786539,Y
+Male,Yes,2,Graduate,Yes,33989,36484,2880612,60,1,Urban,Coupe,2091620,N
+Female,No,3+,Graduate,No,85451,36182,733979,240,1,Urban,Hatchback,2844804,Y
+Female,No,1,Graduate,Yes,28990,570,1108986,60,1,Urban,Van,2553790,Y
+Male,No,2,Graduate,Yes,90360,32254,778104,240,1,Semiurban,Convertible,3549307,Y
+Female,No,1,Not Graduate,No,46081,19288,1579367,60,1,Semiurban,Coupe,2848379,Y
+Female,Yes,2,Graduate,No,21033,13288,1525270,180,1,Urban,Sedan,828477,N
+Male,No,1,Not Graduate,Yes,26241,29877,2884512,180,1,Urban,Hatchback,3064113,N
+Male,Yes,0,Graduate,Yes,15939,18889,2498547,60,1,Rural,Convertible,999755,N
+Female,No,3+,Not Graduate,No,57562,917,1875147,120,1,Rural,Sedan,3301818,Y
+Male,No,1,Not Graduate,Yes,45063,10066,1097578,180,1,Rural,Van,2225282,Y
+Male,Yes,2,Not Graduate,Yes,86721,29504,635150,240,1,Semiurban,Hatchback,2363032,Y
+Female,No,3+,Not Graduate,Yes,37045,6982,1495893,240,1,Rural,SUV,1250310,Y
+Male,No,3+,Not Graduate,Yes,54769,39104,2339050,300,0,Semiurban,Sedan,3589809,N
+Male,No,2,Not Graduate,Yes,57118,18062,2955257,360,0,Semiurban,Coupe,2724344,N
+Female,Yes,1,Graduate,Yes,94703,16999,2140975,360,1,Semiurban,Truck,2330455,Y
+Female,No,0,Not Graduate,Yes,31625,9941,2440066,360,1,Semiurban,Convertible,1380670,Y
+Male,Yes,0,Graduate,No,37076,23470,843150,240,1,Rural,Hatchback,1878148,Y
+Male,No,1,Graduate,No,74805,45148,2046064,300,1,Urban,Sedan,3544410,Y
+Female,Yes,3+,Not Graduate,No,54605,21133,1279091,360,1,Urban,SUV,2922651,Y
+Female,Yes,3+,Graduate,No,94565,44435,2866789,360,1,Urban,Truck,2000033,N
+Female,No,3+,Not Graduate,No,98509,4529,2666791,60,1,Rural,Convertible,962176,N
+Female,No,3+,Graduate,Yes,49121,17519,1865103,60,1,Urban,Convertible,3379932,Y
+Male,Yes,1,Not Graduate,Yes,75101,12192,2206930,60,1,Rural,Sedan,738826,Y
+Female,Yes,3+,Graduate,Yes,41433,8566,2273216,120,0,Rural,SUV,2217354,N
+Female,No,2,Not Graduate,Yes,53309,7226,2906530,360,1,Rural,Van,1250782,N
+Male,Yes,3+,Not Graduate,No,77468,37930,1464795,120,0,Urban,Truck,981809,N
+Female,No,0,Not Graduate,Yes,54254,49358,2201538,300,0,Urban,Van,1734832,N
+Male,No,3+,Not Graduate,Yes,77293,21259,2078458,240,1,Urban,Hatchback,3590086,Y
+Female,No,1,Graduate,No,47853,34087,2309771,360,1,Semiurban,Sedan,2318182,Y
+Female,No,0,Not Graduate,Yes,48405,1141,769515,240,1,Rural,Truck,672905,Y
+Female,Yes,1,Graduate,Yes,76652,4627,2120179,60,0,Semiurban,Hatchback,893781,N
+Male,No,1,Graduate,No,53527,47269,2287500,360,0,Rural,Van,2506260,N
+Male,Yes,0,Graduate,Yes,87227,2690,2829672,180,1,Urban,Truck,1566978,N
+Female,No,1,Not Graduate,Yes,10492,40091,2152390,120,1,Rural,Convertible,1722493,N
+Male,Yes,1,Graduate,Yes,18811,3255,1171986,120,1,Rural,Hatchback,3658562,Y
+Male,No,3+,Graduate,Yes,34272,5213,2834482,360,1,Semiurban,SUV,3189290,N
+Male,Yes,2,Graduate,Yes,82010,36876,637900,60,1,Rural,Coupe,537180,Y
+Male,Yes,1,Not Graduate,No,57153,19404,819658,120,0,Urban,Van,1945675,N
+Male,No,1,Not Graduate,No,64110,25380,1000364,60,1,Rural,Van,1133976,Y
+Male,No,1,Graduate,No,23979,25520,1784283,300,1,Rural,SUV,3852387,N
+Female,No,3+,Not Graduate,No,38328,19173,2053493,240,1,Rural,Truck,1917240,Y
+Female,No,2,Not Graduate,No,22867,23989,2003061,180,1,Semiurban,Truck,1675711,N
+Male,Yes,0,Graduate,No,69234,42570,1013066,240,1,Rural,Truck,2751347,Y
+Female,No,3+,Graduate,Yes,35851,24519,2420967,240,1,Rural,Hatchback,2131345,Y
+Female,Yes,3+,Not Graduate,No,41279,22439,2861331,300,0,Semiurban,Sedan,1097726,N
+Female,Yes,2,Graduate,No,83402,11413,1658343,120,0,Semiurban,Convertible,1135779,N
+Female,No,2,Not Graduate,Yes,25449,14995,1041529,180,1,Semiurban,Coupe,3119893,Y
+Male,Yes,3+,Not Graduate,Yes,86221,23559,654226,120,0,Semiurban,Sedan,3007941,N
+Female,Yes,0,Not Graduate,No,99080,45351,1462454,360,1,Urban,Sedan,857054,Y
+Female,Yes,3+,Not Graduate,Yes,15451,23513,2653548,240,1,Urban,SUV,3702222,N
+Male,Yes,2,Not Graduate,No,97178,5021,2041019,360,1,Rural,Hatchback,3002656,Y
+Male,No,0,Not Graduate,Yes,51316,32464,618920,60,1,Urban,Van,2381986,Y
+Female,No,2,Graduate,No,73064,21119,906547,240,0,Rural,Van,1489924,N
+Female,No,0,Graduate,Yes,73761,29299,2792151,120,1,Urban,SUV,2977141,N
+Female,No,1,Not Graduate,Yes,48870,39350,2159090,240,1,Semiurban,Hatchback,2465629,Y
+Female,Yes,2,Not Graduate,No,40873,46223,2157583,60,1,Semiurban,SUV,3328607,Y
+Female,Yes,2,Not Graduate,No,68627,25517,563014,300,1,Urban,Van,1603248,Y
+Female,No,3+,Graduate,No,76155,13117,2782702,360,1,Urban,Sedan,2134685,N
+Male,No,2,Not Graduate,No,35372,22250,2216190,360,1,Rural,Convertible,569224,Y
+Female,No,2,Graduate,No,13642,18950,1735382,120,1,Rural,Truck,1529922,N
+Female,Yes,1,Not Graduate,Yes,38001,17359,1970413,240,1,Rural,Hatchback,734745,Y
+Male,No,2,Not Graduate,No,44064,23596,1533994,120,0,Semiurban,Coupe,2651948,N
+Male,No,1,Graduate,No,24122,25530,838585,300,1,Semiurban,Coupe,2863319,Y
+Male,No,1,Graduate,Yes,34820,1262,2919493,240,1,Semiurban,Sedan,2318222,N
+Male,Yes,1,Not Graduate,Yes,78431,40150,856778,240,1,Semiurban,SUV,3335148,Y
+Female,Yes,1,Not Graduate,No,65745,22615,1797682,120,1,Rural,SUV,1716383,Y
+Female,Yes,0,Not Graduate,Yes,60081,3327,2041037,120,1,Semiurban,Van,1063506,Y
+Female,Yes,3+,Graduate,Yes,80902,29768,1160197,60,1,Semiurban,Sedan,1429717,Y
+Female,Yes,0,Graduate,No,18711,28850,2031817,300,0,Semiurban,Van,1015729,N
+Female,Yes,2,Graduate,Yes,95132,42788,2537312,60,1,Semiurban,Van,1778342,N
+Female,Yes,0,Graduate,Yes,28793,16848,2515074,360,0,Urban,Coupe,3412044,N
+Male,Yes,0,Graduate,No,18199,46830,2020871,240,0,Rural,Van,1351112,N
+Female,No,2,Graduate,No,86253,39542,1025754,120,1,Rural,Truck,2583805,Y
+Male,No,2,Not Graduate,Yes,46191,15160,846030,240,1,Semiurban,Van,1579593,Y
+Male,Yes,2,Not Graduate,Yes,20211,33998,2925207,240,1,Urban,Coupe,3613192,N
+Female,Yes,0,Graduate,No,73069,27230,2302502,180,0,Rural,Truck,854182,N
+Male,No,0,Not Graduate,Yes,98896,9076,1962538,360,0,Rural,SUV,1448494,N
+Female,Yes,2,Not Graduate,Yes,66746,3805,2685574,180,1,Semiurban,Hatchback,3140955,N
+Male,Yes,3+,Graduate,Yes,31542,31085,2051676,240,1,Semiurban,Convertible,2998002,Y
+Female,Yes,3+,Not Graduate,No,41312,14715,2526819,120,1,Rural,Van,2805258,N
+Male,No,1,Graduate,Yes,55242,5750,2574520,240,0,Rural,Truck,2542532,N
+Female,No,2,Graduate,Yes,97893,48395,1515691,360,0,Urban,Hatchback,1446881,N
+Female,No,1,Not Graduate,No,65388,13232,2932665,180,1,Rural,Coupe,3416585,N
+Female,No,3+,Graduate,Yes,37691,35903,2169771,120,1,Rural,Hatchback,2074255,Y
+Female,No,1,Graduate,Yes,87960,6953,1458378,240,1,Semiurban,Convertible,3317718,Y
+Female,Yes,2,Graduate,No,94388,32093,1232722,300,1,Rural,Hatchback,1852935,Y
+Male,No,2,Graduate,No,32601,25500,1386388,360,0,Semiurban,Truck,3201160,N
+Male,Yes,2,Graduate,No,28020,22418,2291396,360,1,Rural,Hatchback,789258,N
+Male,Yes,0,Graduate,No,18155,34314,2330957,300,1,Rural,Hatchback,2215818,N
+Female,No,1,Graduate,Yes,79119,48225,1975159,240,1,Rural,Hatchback,1399574,Y
+Male,No,3+,Graduate,Yes,91051,22449,1700847,360,0,Urban,Sedan,3269785,N
+Female,Yes,3+,Not Graduate,No,46777,17478,1534104,120,1,Semiurban,Van,2268828,Y
+Female,Yes,3+,Not Graduate,No,29710,35179,2950700,240,1,Urban,Coupe,3164119,N
+Male,Yes,0,Not Graduate,Yes,34532,46881,1344156,240,1,Rural,Convertible,1811147,Y
+Male,No,0,Graduate,No,28601,25338,1716053,180,0,Urban,Coupe,3187707,N
+Female,No,2,Graduate,Yes,73227,26899,1777880,360,0,Semiurban,Sedan,2597951,N
+Male,No,3+,Not Graduate,No,14967,4145,1315363,360,1,Rural,Sedan,1866379,Y
+Female,No,0,Not Graduate,Yes,94289,32101,2344298,300,1,Urban,Truck,2036201,Y
+Female,No,2,Not Graduate,No,30022,2775,2194000,180,1,Urban,Sedan,2079889,Y
+Female,Yes,3+,Graduate,No,53463,45961,1890598,180,1,Semiurban,Van,1038769,Y
+Female,No,1,Not Graduate,Yes,84671,31647,852621,360,1,Urban,Sedan,787555,Y
+Female,Yes,2,Not Graduate,No,15722,45619,1231658,240,0,Semiurban,Hatchback,2300830,N
+Male,Yes,0,Graduate,Yes,37413,45838,1185493,180,1,Rural,Coupe,3244454,Y
+Male,Yes,0,Not Graduate,Yes,91050,19539,1918006,300,0,Rural,SUV,908177,N
+Female,No,2,Graduate,Yes,95867,36738,2899771,180,1,Urban,Convertible,1963559,N
+Female,No,2,Graduate,Yes,93596,26616,2955918,300,1,Rural,Sedan,1014111,N
+Male,No,0,Graduate,Yes,76732,14119,1959096,180,1,Rural,Coupe,3697418,Y
+Male,Yes,1,Not Graduate,No,22297,25159,2704725,300,1,Urban,Truck,1077158,N
+Female,Yes,3+,Not Graduate,No,78323,37099,2381554,180,1,Rural,Sedan,3621192,Y
+Male,Yes,1,Graduate,Yes,33816,10295,2866304,180,1,Urban,Van,3288647,N
+Female,Yes,2,Not Graduate,No,50695,34710,810435,120,1,Semiurban,Sedan,2530594,Y
+Male,Yes,1,Not Graduate,Yes,29702,24685,658477,300,1,Semiurban,Sedan,2684080,Y
+Female,Yes,0,Not Graduate,No,35242,49343,2895682,300,1,Semiurban,Sedan,2070497,N
+Male,No,2,Not Graduate,No,65841,25479,1700475,300,0,Urban,Truck,1234158,N
+Female,No,3+,Graduate,No,77712,46172,2937839,60,1,Urban,Sedan,3192205,N
+Male,No,0,Not Graduate,No,95663,33629,1515197,180,0,Rural,Convertible,3931644,N
+Male,No,0,Graduate,Yes,63574,42043,1846652,300,1,Rural,Coupe,2465425,Y
+Female,Yes,3+,Graduate,Yes,95744,17033,2480407,360,1,Rural,Van,1305231,Y
+Male,Yes,3+,Not Graduate,No,38482,36902,2448888,60,1,Rural,Sedan,1922771,Y
+Female,No,1,Graduate,No,19171,44571,1301125,120,0,Rural,Sedan,3251381,N
+Male,Yes,2,Not Graduate,Yes,13696,15408,2886537,300,1,Urban,Sedan,3669283,N
+Female,No,3+,Not Graduate,No,30058,17420,2692942,300,1,Urban,Sedan,1946053,N
+Male,No,3+,Graduate,Yes,30313,16351,1433044,60,1,Semiurban,Hatchback,2979129,Y
+Female,No,2,Graduate,Yes,29149,4131,2268693,180,1,Semiurban,Hatchback,1355434,N
+Male,Yes,3+,Graduate,Yes,63521,44825,2491161,360,1,Semiurban,SUV,808697,Y
+Female,No,3+,Graduate,No,55740,11349,1810015,120,1,Semiurban,Sedan,3910960,Y
+Male,No,1,Not Graduate,Yes,14956,44254,1559926,300,1,Urban,SUV,1025403,N
+Female,No,0,Not Graduate,No,85731,38225,818953,180,0,Urban,Convertible,3584770,N
+Female,Yes,0,Not Graduate,Yes,92612,38847,601894,360,1,Urban,SUV,1223486,Y
+Female,Yes,0,Graduate,No,76641,12453,1908277,360,1,Rural,Coupe,572908,Y
+Male,No,0,Graduate,No,73811,18814,2494449,120,1,Rural,Hatchback,2141973,Y
+Female,Yes,3+,Graduate,No,62160,18263,2104592,240,1,Semiurban,Hatchback,2337986,Y
+Male,Yes,2,Not Graduate,Yes,61313,12158,779720,360,1,Rural,Sedan,871087,Y
+Female,Yes,2,Graduate,Yes,73232,15735,1548966,240,1,Urban,Sedan,509422,Y
+Male,Yes,1,Not Graduate,No,25417,15830,906245,360,0,Semiurban,Convertible,2771850,N
+Female,Yes,1,Graduate,No,34729,47893,522490,120,0,Semiurban,Van,3210673,N
+Male,Yes,3+,Not Graduate,No,40099,44673,1332307,60,0,Rural,Convertible,1342606,N
+Male,Yes,2,Not Graduate,Yes,39961,23926,2589632,120,1,Semiurban,Coupe,2038148,N
+Female,Yes,2,Graduate,Yes,22602,45066,2340875,120,1,Rural,Sedan,3683471,N
+Male,Yes,0,Graduate,Yes,19256,34779,1105108,60,1,Rural,Sedan,950415,Y
+Male,Yes,3+,Not Graduate,Yes,96120,3373,2868417,60,1,Semiurban,Convertible,1941008,N
+Female,No,3+,Not Graduate,No,44681,10335,501539,180,1,Rural,Convertible,3250440,Y
+Male,No,0,Graduate,No,97440,23741,812579,360,1,Rural,Convertible,528834,Y
+Male,Yes,3+,Graduate,Yes,74789,10692,2661117,180,1,Rural,Hatchback,1048723,N
+Male,No,3+,Not Graduate,Yes,53361,47295,2063825,60,1,Rural,SUV,3732940,Y
+Female,No,1,Graduate,No,74503,45541,1646375,240,1,Semiurban,SUV,2128661,Y
+Male,Yes,2,Not Graduate,Yes,44540,34057,2024631,240,1,Urban,Sedan,3033922,Y
+Female,Yes,3+,Not Graduate,Yes,36536,1447,1691890,120,1,Urban,Hatchback,1078843,Y
+Male,Yes,1,Graduate,Yes,94700,19583,2845251,300,1,Rural,Convertible,585350,N
+Male,No,2,Graduate,Yes,73043,22765,1530065,120,1,Rural,Sedan,514716,Y
+Male,No,0,Graduate,Yes,88532,23906,1267610,120,1,Rural,Hatchback,1608837,Y
+Female,Yes,1,Graduate,Yes,66575,19567,2307642,300,0,Urban,Coupe,1445032,N
+Male,Yes,1,Graduate,No,12871,14139,1406395,360,1,Rural,Van,3385579,Y
+Male,Yes,2,Not Graduate,Yes,56002,46525,2335515,60,1,Semiurban,Hatchback,2217780,Y
+Female,No,0,Not Graduate,Yes,59812,38230,836430,240,1,Semiurban,Truck,1192019,Y
+Male,No,1,Graduate,No,32626,19520,1162714,120,1,Semiurban,Sedan,3661250,Y
+Female,No,3+,Graduate,No,69979,19702,2444606,300,0,Urban,SUV,1940352,N
+Female,No,3+,Graduate,No,86057,25566,1110724,180,1,Rural,Truck,2409042,Y
+Male,Yes,3+,Not Graduate,Yes,76668,7657,2807600,120,1,Rural,Convertible,2377330,N
+Female,Yes,0,Graduate,No,90070,37688,1470278,240,0,Rural,Van,2926934,N
+Male,Yes,1,Graduate,Yes,99390,30134,995919,60,1,Urban,Coupe,1387766,Y
+Female,Yes,3+,Not Graduate,Yes,52998,10345,1577209,120,1,Urban,Van,2212460,Y
+Female,No,0,Not Graduate,Yes,73814,41185,1310927,120,1,Urban,Van,1055134,Y
+Male,No,3+,Graduate,No,55607,49928,2809608,360,1,Urban,Hatchback,1360075,N
+Female,Yes,2,Graduate,No,17812,27413,1847203,300,1,Semiurban,Sedan,3574752,N
+Female,Yes,1,Graduate,No,71844,5208,2972477,180,1,Urban,Sedan,2513783,N
+Female,No,1,Not Graduate,No,80093,33455,966589,180,0,Urban,Van,1835119,N
+Female,Yes,0,Graduate,No,12179,49681,2893365,60,1,Urban,Convertible,1230520,N
+Female,No,0,Graduate,Yes,53798,28018,1687018,240,1,Rural,Sedan,2820886,Y
+Male,Yes,1,Graduate,Yes,84601,45991,2192737,60,1,Rural,Van,1548278,Y
+Female,Yes,3+,Not Graduate,Yes,18275,8080,1403275,120,0,Rural,Sedan,3341179,N
+Male,Yes,3+,Not Graduate,Yes,60574,21902,2767357,120,0,Semiurban,Convertible,623182,N
+Female,Yes,2,Graduate,No,57857,9486,2299971,180,1,Semiurban,Coupe,548591,Y
+Male,Yes,3+,Graduate,No,30700,38862,1644337,240,1,Urban,Truck,3797514,Y
+Male,Yes,0,Not Graduate,Yes,49464,21158,1924473,300,1,Rural,Van,1523671,Y
+Female,Yes,0,Not Graduate,No,52351,40460,2434790,240,1,Semiurban,SUV,3943749,Y
+Female,No,3+,Not Graduate,No,92534,43856,1884704,120,1,Rural,SUV,584106,Y
+Female,No,0,Not Graduate,Yes,23869,35871,1073881,300,1,Semiurban,Van,2150882,Y
+Male,No,1,Not Graduate,Yes,70315,35208,2410617,240,1,Semiurban,Hatchback,2959150,Y
+Female,No,1,Not Graduate,No,30954,20519,1518454,240,0,Urban,Coupe,2525216,N
+Male,No,3+,Not Graduate,No,41555,31379,2602361,300,1,Urban,Hatchback,664486,N
+Male,Yes,1,Not Graduate,Yes,73353,28378,2199564,120,0,Semiurban,Truck,2193696,N
+Male,Yes,1,Not Graduate,Yes,92190,39892,2996901,240,1,Urban,SUV,3208016,N
+Female,No,2,Graduate,Yes,55026,49996,2159461,300,1,Semiurban,Convertible,3331455,Y
+Female,Yes,2,Graduate,No,56976,14031,1558503,360,1,Semiurban,Van,2327528,Y
+Male,No,1,Graduate,Yes,90578,14536,1141621,360,1,Rural,Truck,2564921,Y
+Male,No,3+,Not Graduate,Yes,55095,446,2935678,120,1,Urban,Sedan,1235062,N
+Female,Yes,2,Graduate,No,24270,36683,2736157,300,1,Urban,SUV,1227468,N
+Male,Yes,0,Not Graduate,No,40908,48555,2176644,360,1,Urban,Coupe,2564618,Y
+Female,Yes,0,Not Graduate,No,25523,17618,2113560,300,1,Rural,SUV,592508,N
+Male,No,0,Graduate,No,72433,6587,2793673,240,1,Rural,Coupe,3954707,N
+Female,Yes,3+,Not Graduate,No,57068,31480,949764,120,1,Rural,Coupe,3315845,Y
+Male,No,1,Graduate,Yes,29991,32994,1949589,360,1,Urban,Van,2115328,N
+Female,No,0,Graduate,Yes,20775,20527,2998714,240,1,Urban,Coupe,3496038,N
+Male,No,3+,Graduate,No,87801,23569,716486,60,0,Urban,Hatchback,1178283,N
+Female,Yes,2,Not Graduate,No,94995,11151,926888,60,1,Rural,Truck,1664638,Y
+Female,Yes,1,Graduate,No,71250,5558,1335988,120,1,Rural,Convertible,3576511,Y
+Male,No,2,Not Graduate,No,26673,44739,1410155,360,1,Semiurban,SUV,2402453,Y
+Male,Yes,3+,Graduate,No,37056,32954,1050428,360,1,Rural,Convertible,2589875,Y
+Female,Yes,0,Graduate,Yes,16614,47448,763328,360,0,Semiurban,Truck,2969750,N
+Male,Yes,0,Graduate,Yes,17415,47327,2589706,300,1,Urban,Sedan,3219824,N
+Female,No,3+,Not Graduate,Yes,98691,43837,1976285,240,1,Rural,Truck,3298658,Y
+Male,No,0,Not Graduate,Yes,53884,35303,2228782,360,1,Urban,SUV,3967904,Y
+Female,Yes,1,Not Graduate,No,26964,34700,611361,240,1,Urban,Convertible,1924241,Y
+Female,No,3+,Graduate,Yes,47726,27500,2226131,120,0,Urban,Convertible,1402810,N
+Female,Yes,2,Graduate,No,47044,2032,897172,360,1,Urban,Van,3138580,Y
+Female,Yes,3+,Not Graduate,No,67149,1252,1565131,120,1,Rural,Van,764814,Y
+Female,Yes,1,Not Graduate,No,47544,5509,1114673,360,1,Urban,Truck,1847239,Y
+Female,Yes,1,Not Graduate,Yes,59976,37842,755658,60,1,Semiurban,Truck,1475315,Y
+Male,No,3+,Not Graduate,No,42252,13900,1990641,180,1,Rural,Sedan,2700717,Y
+Male,No,3+,Not Graduate,Yes,13832,14523,2230283,120,1,Urban,Coupe,3267203,N
+Male,No,0,Not Graduate,Yes,90437,1881,1254085,360,1,Rural,SUV,3488740,Y
+Female,Yes,1,Graduate,No,44148,33037,2700996,180,0,Semiurban,Van,685964,N
+Female,Yes,3+,Not Graduate,No,71240,1630,1639897,120,1,Urban,SUV,1736855,Y
+Female,Yes,3+,Graduate,No,98454,20789,1335488,300,1,Semiurban,Sedan,1546094,Y
+Female,No,1,Graduate,Yes,95076,22523,2267787,360,1,Urban,Van,3892389,Y
+Male,Yes,3+,Not Graduate,No,87116,17958,2695386,300,0,Semiurban,Van,3810240,N
+Male,No,0,Not Graduate,Yes,63459,46151,1251993,60,1,Urban,Coupe,3916502,Y
+Female,No,1,Graduate,No,48402,48920,1225571,360,1,Rural,SUV,3906028,Y
+Male,No,0,Not Graduate,No,67727,43852,1328282,60,1,Urban,SUV,1788220,Y
+Male,No,0,Not Graduate,Yes,48578,1695,971761,180,1,Rural,SUV,1254108,Y
+Female,No,0,Graduate,Yes,32318,14821,2921616,120,1,Urban,Coupe,1232878,N
+Male,No,0,Graduate,Yes,85715,3262,2221793,240,1,Urban,Van,3719919,Y
+Female,Yes,1,Graduate,Yes,87787,1445,1771209,60,1,Semiurban,Sedan,2530871,Y
+Male,Yes,0,Not Graduate,Yes,95029,16436,1469752,240,1,Semiurban,SUV,1501622,Y
+Female,No,0,Graduate,Yes,30466,9949,817942,240,1,Semiurban,Convertible,3746319,Y
+Female,No,3+,Not Graduate,No,55475,23963,837462,120,0,Urban,Coupe,2136617,N
+Female,Yes,1,Graduate,No,70142,29932,1914906,180,0,Urban,Hatchback,2052053,N
+Female,No,1,Graduate,Yes,95160,6901,850046,120,1,Urban,Sedan,2863304,Y
+Male,No,2,Graduate,No,36564,33487,921773,360,1,Rural,Convertible,2966704,Y
+Female,Yes,1,Not Graduate,Yes,32412,8597,2930630,60,1,Rural,SUV,2859792,N
+Female,No,1,Not Graduate,No,61001,6855,868863,240,1,Urban,Hatchback,861911,Y
+Female,No,2,Graduate,No,67649,18678,1868328,120,0,Semiurban,Sedan,1546251,N
+Male,No,1,Graduate,Yes,70957,8263,2704601,120,1,Semiurban,Coupe,785356,N
+Female,Yes,1,Graduate,Yes,45517,47288,1651404,120,1,Semiurban,Hatchback,3428811,Y
+Male,Yes,1,Not Graduate,Yes,23156,25805,1675189,60,1,Urban,Van,2024205,N
+Female,Yes,1,Graduate,No,33064,26143,572095,180,1,Semiurban,Truck,3503337,Y
+Male,No,2,Not Graduate,Yes,35711,11874,587593,120,1,Urban,Hatchback,1668694,Y
+Male,No,1,Graduate,No,40106,27529,1191252,60,1,Rural,Truck,2287282,Y
+Female,Yes,1,Graduate,Yes,75458,20866,1887962,240,1,Semiurban,Convertible,2869180,Y
+Male,No,2,Graduate,No,26589,14079,1402473,360,1,Rural,Sedan,616481,Y
+Female,No,3+,Graduate,No,99272,49850,626202,300,1,Semiurban,Convertible,568259,Y
+Female,No,0,Graduate,Yes,96511,7243,2674758,60,0,Urban,Convertible,2646962,N
+Female,No,3+,Graduate,No,17214,29872,618542,300,1,Urban,SUV,3775654,Y
+Male,No,2,Not Graduate,No,95731,9018,1917158,120,0,Urban,Coupe,2539246,N
+Male,Yes,0,Graduate,Yes,37127,49500,2335932,120,1,Urban,Hatchback,2613527,Y
+Female,No,2,Not Graduate,No,15141,12100,1706126,60,1,Semiurban,Sedan,2835269,N
+Female,Yes,2,Graduate,Yes,38884,49459,2143906,300,1,Rural,Van,1442722,Y
+Male,No,1,Graduate,Yes,12708,19800,955433,120,0,Urban,Coupe,1710213,N
+Female,Yes,0,Not Graduate,Yes,28375,26910,1124987,240,0,Semiurban,Coupe,2699806,N
+Female,No,1,Graduate,Yes,25088,29437,590140,180,1,Rural,Sedan,3416559,Y
+Female,Yes,0,Not Graduate,No,67615,37588,2015554,180,0,Urban,Coupe,2231009,N
+Male,No,2,Not Graduate,No,55046,11001,2084645,120,0,Rural,SUV,700798,N
+Male,Yes,2,Graduate,No,20014,46675,1947307,300,1,Urban,Coupe,2730107,N
+Male,No,3+,Not Graduate,Yes,74425,19942,1928078,360,1,Rural,SUV,3583078,Y
+Female,Yes,0,Not Graduate,No,13273,20862,1846853,120,0,Rural,Hatchback,2671641,N
+Female,No,1,Graduate,No,57135,11669,1646204,360,0,Urban,Hatchback,3129821,N
+Female,Yes,3+,Not Graduate,Yes,40881,15916,981799,360,1,Semiurban,Convertible,2742019,Y
+Male,Yes,3+,Graduate,Yes,88077,10878,1700118,300,0,Rural,SUV,2562044,N
+Female,No,3+,Graduate,No,18712,2985,2639826,360,1,Urban,Van,2660151,N
+Female,No,1,Graduate,Yes,84704,32369,2724724,240,1,Rural,Hatchback,812051,N
+Female,Yes,3+,Graduate,Yes,62874,8112,2298594,300,1,Rural,Coupe,2475718,Y
+Female,No,1,Not Graduate,Yes,79087,41235,2889127,120,1,Semiurban,Sedan,3454051,N
+Male,Yes,3+,Graduate,Yes,22297,18931,2395618,240,1,Rural,Sedan,2377631,N
+Male,Yes,1,Graduate,No,37128,27340,945935,60,1,Rural,Truck,3291004,Y
+Female,Yes,2,Not Graduate,Yes,78368,336,1601627,180,0,Urban,SUV,3016779,N
+Male,No,2,Graduate,Yes,97599,42933,1751661,120,1,Urban,Van,3494308,Y
+Male,Yes,2,Graduate,Yes,98499,19363,1614100,120,1,Semiurban,Convertible,3797334,Y
+Female,Yes,2,Not Graduate,Yes,88958,45536,2865766,120,1,Rural,Coupe,2568444,N
+Female,No,2,Not Graduate,Yes,42920,3968,2009390,240,1,Rural,SUV,2962365,Y
+Male,No,3+,Not Graduate,Yes,21156,33678,2507878,60,0,Rural,Truck,3141436,N
+Female,No,3+,Not Graduate,Yes,21108,48400,1017733,300,1,Semiurban,Sedan,2276025,Y
+Male,No,3+,Not Graduate,Yes,41845,16279,815617,60,0,Rural,SUV,1654258,N
+Female,Yes,1,Not Graduate,No,12800,3129,2304053,240,1,Urban,Coupe,2942905,N
+Male,Yes,1,Not Graduate,Yes,52712,38215,1593015,120,1,Semiurban,Van,3106372,Y
+Female,Yes,1,Graduate,No,12610,38897,2587024,180,1,Urban,Van,1490170,N
+Male,Yes,1,Not Graduate,Yes,87603,5850,776452,120,1,Urban,Hatchback,2233341,Y
+Male,No,2,Not Graduate,Yes,43872,20588,591563,300,1,Semiurban,Coupe,1912210,Y
+Male,Yes,2,Not Graduate,Yes,20728,40214,1845801,360,1,Urban,Truck,2330836,N
+Female,Yes,2,Graduate,Yes,30583,11949,1992175,180,1,Rural,Hatchback,2668477,Y
+Male,No,0,Graduate,No,95774,8519,2082701,120,1,Semiurban,Hatchback,2101794,Y
+Male,Yes,3+,Not Graduate,Yes,17263,26375,1259495,180,1,Urban,Hatchback,2973722,Y
+Female,Yes,1,Not Graduate,Yes,77450,33082,2190992,360,1,Rural,SUV,3663257,Y
+Female,Yes,1,Not Graduate,No,99285,11737,667896,60,1,Rural,Truck,3174986,Y
+Male,Yes,2,Graduate,No,29456,1134,2237009,240,1,Urban,Sedan,3915814,N
+Male,Yes,1,Graduate,Yes,75942,10938,1517497,120,0,Rural,Van,2342556,N
+Female,Yes,1,Not Graduate,No,23689,24486,530063,300,1,Semiurban,SUV,2450256,Y
+Female,No,3+,Graduate,No,42934,48356,754371,60,1,Urban,Sedan,3303528,Y
+Female,No,2,Not Graduate,No,43276,26096,2699318,120,0,Rural,Van,3219220,N
+Female,Yes,3+,Graduate,Yes,29873,41115,1563082,60,1,Rural,Truck,3908168,N
+Female,Yes,0,Graduate,Yes,23050,5592,1773989,300,1,Urban,Truck,1616521,N
+Male,No,0,Not Graduate,Yes,76216,18108,1662180,120,1,Urban,Coupe,559980,Y
+Female,Yes,0,Not Graduate,No,94444,17270,920888,360,1,Urban,Van,1343214,Y
+Male,Yes,2,Not Graduate,Yes,94040,27649,1863133,360,0,Urban,Van,665301,N
+Male,Yes,1,Not Graduate,No,31644,10997,1803692,300,0,Semiurban,Truck,1120670,N
+Male,No,2,Graduate,Yes,72021,33489,1875786,180,0,Urban,Van,1602020,N
+Female,Yes,2,Graduate,Yes,47125,9104,690285,300,1,Semiurban,Convertible,797180,Y
+Male,No,1,Graduate,No,76899,870,2711130,180,1,Semiurban,Coupe,3905914,N
+Male,Yes,3+,Not Graduate,Yes,52291,28684,1707739,120,1,Urban,SUV,1182527,Y
+Female,No,0,Graduate,No,45060,39519,2701016,180,1,Semiurban,SUV,1338099,N
+Male,No,3+,Not Graduate,No,11538,49649,1436114,120,1,Urban,Sedan,2167391,Y
+Male,Yes,0,Graduate,Yes,46176,34524,894295,120,1,Urban,SUV,3729065,Y
+Female,No,2,Not Graduate,No,51520,30957,1988543,240,1,Rural,Hatchback,3959340,Y
+Male,Yes,0,Not Graduate,Yes,35675,33885,2158990,120,1,Urban,Van,3718622,Y
+Male,No,2,Graduate,Yes,28287,44369,2234887,180,0,Rural,SUV,946300,N
+Male,Yes,3+,Not Graduate,No,10174,35596,2937587,240,0,Semiurban,Sedan,1087426,N
+Female,Yes,2,Not Graduate,Yes,44998,29866,2722811,240,1,Rural,Sedan,3930460,N
+Female,No,3+,Graduate,No,63312,30676,2263808,120,1,Semiurban,Hatchback,1349333,Y
+Female,Yes,1,Not Graduate,Yes,22112,47764,1893453,300,1,Urban,Sedan,3008039,N
+Male,Yes,1,Not Graduate,Yes,85225,13878,1611288,300,0,Semiurban,Truck,3640380,N
+Male,No,1,Not Graduate,Yes,54814,39760,2271503,360,1,Semiurban,Convertible,1631614,Y
+Female,Yes,2,Graduate,Yes,95091,27559,625849,240,1,Urban,Truck,2556744,Y
+Male,Yes,1,Graduate,Yes,60719,46546,755493,120,1,Semiurban,Van,1973437,Y
+Male,No,0,Not Graduate,No,43919,6771,1104111,300,1,Urban,Van,1418164,Y
+Female,No,3+,Graduate,No,83155,16526,1652791,120,1,Rural,Van,2966507,Y
+Female,Yes,3+,Not Graduate,No,81569,29896,2629382,120,1,Urban,Coupe,1293354,N
+Male,Yes,0,Not Graduate,No,51328,31923,2943869,240,1,Urban,SUV,2166561,N
+Male,No,2,Not Graduate,No,80482,36203,1247948,360,1,Semiurban,Convertible,1724369,Y
+Male,No,2,Not Graduate,No,34618,39390,2899940,240,1,Rural,SUV,3047624,N
+Female,Yes,3+,Not Graduate,Yes,44675,12852,1728312,60,1,Urban,Convertible,1276385,Y
+Female,No,1,Graduate,Yes,28919,47574,1331635,300,0,Rural,SUV,3500801,N
+Female,Yes,2,Not Graduate,No,14173,43391,1877397,300,1,Rural,Hatchback,2404514,N
+Female,Yes,2,Graduate,No,36400,1848,1967217,300,0,Semiurban,Truck,2797167,N
+Male,Yes,0,Graduate,Yes,60445,31027,731414,180,1,Urban,Sedan,3770066,Y
+Female,Yes,0,Not Graduate,Yes,80305,35464,756812,120,1,Semiurban,Sedan,1576419,Y
+Female,Yes,1,Not Graduate,Yes,47564,34485,2563729,240,1,Urban,Truck,2212982,N
+Female,No,2,Graduate,No,55814,19456,2902110,300,1,Rural,Hatchback,1506840,N
+Female,No,2,Graduate,No,89747,9259,2143083,60,1,Urban,Convertible,1481489,Y
+Female,No,0,Graduate,No,98791,35554,2515726,300,1,Urban,Truck,865208,N
+Male,No,2,Not Graduate,Yes,37962,46922,2768108,360,1,Rural,Coupe,2825149,N
+Male,Yes,3+,Graduate,Yes,94892,13409,1906065,120,1,Rural,Convertible,3772145,Y
+Female,Yes,0,Not Graduate,No,95842,3791,1910808,120,0,Urban,Sedan,3762313,N
+Male,Yes,1,Not Graduate,No,80533,25864,1355754,240,0,Semiurban,Coupe,3151786,N
+Female,Yes,0,Not Graduate,Yes,66184,36639,521650,180,1,Urban,SUV,719356,Y
+Female,No,2,Graduate,Yes,92912,34574,1904962,240,0,Rural,Coupe,3495353,N
+Male,Yes,1,Not Graduate,Yes,20578,17888,2373204,300,1,Semiurban,Convertible,2175255,N
+Male,Yes,0,Not Graduate,Yes,28624,19692,1719309,360,1,Rural,Hatchback,984600,N
+Female,No,3+,Not Graduate,No,49194,23501,2839189,60,0,Rural,SUV,1995318,N
+Female,No,3+,Not Graduate,Yes,10389,13304,706251,240,1,Semiurban,Convertible,2408151,Y
+Female,No,0,Not Graduate,Yes,77391,27527,2618194,180,1,Rural,SUV,3417167,N
+Male,No,3+,Graduate,Yes,23794,18074,2325706,240,1,Rural,Coupe,3789363,N
+Female,Yes,3+,Not Graduate,No,68002,15549,1478582,120,0,Rural,Sedan,2774284,N
+Female,Yes,3+,Not Graduate,No,45531,29963,818903,300,0,Rural,Convertible,2857761,N
+Female,No,1,Graduate,Yes,62815,25920,1916693,300,1,Rural,Hatchback,1146231,Y
+Male,Yes,3+,Not Graduate,Yes,14986,30826,2379314,300,1,Rural,Truck,1269822,N
+Female,Yes,3+,Graduate,Yes,42298,36071,1394801,300,1,Rural,Coupe,3286202,Y
+Female,Yes,3+,Not Graduate,No,11481,16061,2224854,300,1,Rural,Convertible,2822936,N
+Male,No,1,Graduate,No,66408,28810,1314811,300,1,Rural,Hatchback,514925,Y
+Female,Yes,0,Graduate,No,79267,47966,882811,60,1,Urban,Convertible,1631760,Y
+Female,No,2,Not Graduate,Yes,26835,22800,1001691,180,1,Urban,Coupe,2149379,Y
+Male,Yes,3+,Not Graduate,No,37798,43423,1508314,300,1,Rural,Convertible,2796482,Y
+Female,Yes,0,Not Graduate,Yes,74887,41692,714304,180,1,Urban,SUV,3257867,Y
+Male,Yes,3+,Graduate,Yes,29477,9940,2993330,360,1,Semiurban,Coupe,1856789,N
+Male,No,1,Graduate,Yes,27266,3924,2217787,300,0,Urban,Convertible,1249695,N
+Female,Yes,0,Graduate,No,96328,28054,2452634,240,1,Rural,Truck,3746582,Y
+Female,No,1,Not Graduate,Yes,95988,9783,1411612,300,1,Rural,Sedan,3438055,Y
+Female,No,3+,Graduate,No,53526,37253,2911645,120,1,Urban,Convertible,2892001,N
+Female,No,3+,Graduate,No,21889,45397,701904,60,1,Rural,SUV,2772133,Y
+Male,Yes,1,Not Graduate,Yes,34335,13233,1211716,240,1,Semiurban,Hatchback,2816830,Y
+Female,Yes,2,Graduate,Yes,21254,45669,2602882,240,1,Semiurban,Truck,2725653,N
+Male,Yes,1,Graduate,No,96610,24484,1955713,120,1,Rural,Hatchback,1664937,Y
+Female,Yes,3+,Not Graduate,Yes,21442,25068,2199660,300,1,Semiurban,Truck,1733387,N
+Female,No,1,Graduate,No,56289,191,2416541,60,1,Semiurban,Hatchback,2805044,Y
+Female,No,2,Not Graduate,Yes,63747,25074,845430,240,1,Urban,Sedan,1111561,Y
+Male,No,1,Not Graduate,No,47327,4917,1328411,60,0,Semiurban,SUV,3931113,N
+Female,Yes,2,Not Graduate,No,26199,38599,2357845,240,1,Urban,Coupe,550818,N
+Female,No,2,Not Graduate,No,82827,25832,2439983,300,1,Rural,Hatchback,2749119,Y
+Female,Yes,1,Not Graduate,No,10112,42928,2069186,360,1,Urban,Truck,2951603,N
+Female,No,1,Graduate,Yes,97051,20706,2618075,240,1,Rural,SUV,1742057,N
+Male,Yes,0,Graduate,Yes,29581,13682,1347405,360,1,Rural,Convertible,1997116,Y
+Female,Yes,3+,Not Graduate,No,69722,26762,1944679,240,1,Rural,Sedan,1877640,Y
+Male,No,2,Not Graduate,No,26523,23383,2791947,180,1,Rural,SUV,3043923,N
+Male,No,0,Graduate,Yes,76960,27796,733462,300,1,Rural,SUV,618642,Y
+Male,No,1,Not Graduate,Yes,29552,23666,2648565,120,1,Urban,Coupe,3973325,N
+Male,No,3+,Not Graduate,Yes,20808,25662,2468921,360,1,Rural,SUV,3406273,N
+Male,Yes,0,Not Graduate,Yes,82525,45159,1882296,120,1,Semiurban,Coupe,695428,Y
+Male,No,2,Graduate,Yes,33620,34642,1821024,300,1,Semiurban,Sedan,901468,Y
+Female,No,0,Graduate,Yes,10887,41830,910226,120,1,Rural,Sedan,1317276,Y
+Male,No,2,Not Graduate,No,41802,37531,1675615,300,1,Semiurban,Convertible,595687,Y
+Male,Yes,1,Not Graduate,Yes,95024,10234,2264694,120,1,Urban,Coupe,2047334,Y
+Male,Yes,3+,Graduate,Yes,91938,9221,2235594,360,0,Urban,Coupe,2358373,N
+Female,No,3+,Graduate,No,96741,11410,2777226,180,1,Rural,Hatchback,2887819,N
+Female,Yes,3+,Not Graduate,Yes,36049,14519,2307254,120,0,Rural,Hatchback,3111665,N
+Male,No,1,Not Graduate,Yes,87789,1051,1156735,360,1,Rural,Convertible,1690130,Y
+Female,Yes,2,Graduate,Yes,94526,44993,2172349,240,1,Semiurban,Sedan,2709257,Y
+Male,Yes,1,Graduate,Yes,17846,9765,1308524,300,1,Semiurban,Van,2179832,Y
+Male,Yes,3+,Graduate,Yes,56220,11382,631562,60,0,Urban,Hatchback,2385118,N
+Female,Yes,1,Not Graduate,No,56163,12580,1552305,60,1,Semiurban,SUV,2294580,Y
+Male,No,1,Graduate,Yes,13765,32323,2209910,300,1,Urban,Sedan,1942285,N
+Female,No,1,Not Graduate,No,91486,44757,1895936,180,1,Semiurban,Van,2636919,Y
+Female,No,2,Graduate,No,55270,11939,758360,120,1,Urban,SUV,3150990,Y
+Male,Yes,0,Graduate,Yes,85277,29964,2956166,180,1,Rural,Truck,2072837,N
+Male,No,0,Graduate,No,98278,307,2893946,60,0,Semiurban,Coupe,3790633,N
+Female,No,1,Graduate,Yes,32931,3359,1128177,360,0,Urban,Sedan,1682618,N
+Male,No,0,Not Graduate,No,99116,29648,860306,300,1,Semiurban,Truck,2171179,Y
+Male,Yes,0,Not Graduate,No,65633,35944,2004558,300,0,Rural,Convertible,595494,N
+Male,Yes,1,Graduate,Yes,90702,34019,1958857,180,1,Urban,Coupe,1540016,Y
+Female,Yes,1,Not Graduate,Yes,61913,38134,2094502,360,1,Semiurban,Coupe,3497439,Y
+Female,No,3+,Graduate,Yes,35991,27323,1988303,180,1,Semiurban,SUV,3728409,Y
+Male,No,0,Graduate,Yes,64845,6226,2288243,120,1,Rural,Truck,1204537,Y
+Female,No,2,Graduate,Yes,65312,21689,1018490,240,0,Rural,Coupe,3514130,N
+Female,Yes,1,Graduate,No,20561,30971,2304933,360,1,Urban,Hatchback,3898139,N
+Female,Yes,3+,Not Graduate,No,26901,25954,2573946,240,1,Semiurban,Sedan,1216861,N
+Female,No,2,Graduate,No,72875,24423,534924,120,1,Semiurban,Hatchback,1053188,Y
+Female,Yes,0,Graduate,No,35917,30391,1761368,240,1,Rural,SUV,2611278,Y
+Male,Yes,3+,Not Graduate,No,72120,14330,1982526,60,1,Rural,Van,841447,Y
+Male,Yes,1,Graduate,No,11988,4891,2403124,240,0,Urban,SUV,716651,N
+Male,Yes,2,Graduate,No,24256,4992,2560583,120,0,Semiurban,Sedan,2926357,N
+Female,No,1,Graduate,Yes,97728,1961,970192,240,1,Semiurban,Coupe,2040856,Y
+Female,Yes,0,Not Graduate,Yes,38230,12497,2087542,300,1,Urban,Truck,2614130,Y
+Male,Yes,2,Graduate,No,69778,32551,1162132,180,1,Urban,Truck,3954520,Y
+Female,Yes,0,Not Graduate,No,55833,10848,2140027,60,1,Rural,Convertible,1811775,Y
+Male,Yes,0,Graduate,Yes,32625,13255,654536,300,1,Rural,SUV,2672734,Y
+Male,No,3+,Graduate,Yes,42088,4567,1075425,300,1,Urban,Sedan,3878187,Y
+Male,No,1,Not Graduate,Yes,89650,48847,923448,120,1,Urban,Convertible,1105502,Y
+Female,Yes,2,Graduate,Yes,51167,39281,2540104,180,1,Semiurban,Coupe,3035244,N
+Female,Yes,0,Graduate,No,81291,48003,1124773,180,1,Urban,Van,2060155,Y
+Male,Yes,0,Not Graduate,Yes,75303,20389,2517528,360,1,Urban,SUV,1247520,N
+Male,Yes,2,Not Graduate,No,86361,44523,2178332,60,1,Semiurban,Van,2111589,Y
+Male,Yes,0,Not Graduate,No,98229,43919,1502021,120,1,Urban,Sedan,2995623,Y
+Male,Yes,3+,Not Graduate,No,14117,16567,2598053,60,0,Rural,Van,968163,N
+Female,No,3+,Not Graduate,Yes,70710,3358,2685132,360,1,Rural,Van,1339812,N
+Female,Yes,3+,Graduate,Yes,77054,22999,1918314,240,0,Semiurban,Sedan,1270008,N
+Male,No,3+,Not Graduate,No,40949,42358,1289313,300,1,Urban,Sedan,3174773,Y
+Male,No,0,Graduate,No,32547,10988,792007,60,1,Rural,SUV,804603,Y
+Female,Yes,2,Graduate,No,91882,40446,2995990,300,1,Rural,Van,3500102,N
+Female,No,2,Graduate,Yes,78136,31521,2024960,120,0,Rural,Convertible,2895459,N
+Male,No,2,Not Graduate,No,74619,5698,2848991,240,1,Rural,Sedan,1713619,N
+Male,No,2,Not Graduate,Yes,71842,1273,1869971,120,1,Urban,Coupe,2269085,Y
+Male,No,1,Graduate,No,36990,27543,1096860,240,1,Urban,Van,1544654,Y
+Female,No,2,Not Graduate,No,26193,31349,2112119,240,1,Urban,Sedan,3992602,N
+Female,No,1,Not Graduate,No,40109,11241,887773,300,1,Urban,Convertible,2878772,Y
+Female,Yes,1,Not Graduate,Yes,29233,9497,2582816,120,0,Rural,Truck,3976452,N
+Male,No,3+,Not Graduate,Yes,91730,41875,522499,120,1,Semiurban,SUV,3897559,Y
+Male,No,1,Graduate,No,44510,32703,1126840,60,1,Semiurban,Van,1392008,Y
+Female,No,0,Graduate,Yes,11306,44041,944844,120,1,Rural,Truck,848737,Y
+Female,Yes,1,Not Graduate,No,13849,31954,2134224,60,1,Rural,Sedan,3321562,N
+Male,No,3+,Graduate,Yes,22360,8002,1946395,180,1,Semiurban,Sedan,3852326,N
+Female,Yes,1,Not Graduate,Yes,55800,4247,1371905,180,1,Semiurban,Coupe,2046288,Y
+Female,No,0,Not Graduate,Yes,46963,41988,643704,180,1,Rural,Coupe,1949299,Y
+Male,Yes,0,Graduate,No,64330,21698,1640449,360,1,Rural,Van,2012185,Y
+Female,Yes,0,Graduate,Yes,61707,19738,565756,120,1,Urban,Truck,3264630,Y
+Male,No,3+,Graduate,Yes,28689,10703,1867064,360,0,Urban,Truck,681601,N
+Male,No,3+,Not Graduate,No,39084,48240,1670473,120,1,Semiurban,Sedan,568682,Y
+Male,Yes,2,Graduate,No,50387,49422,1020082,60,1,Rural,Van,3868737,Y
+Male,No,3+,Not Graduate,No,84816,17570,2896640,360,1,Semiurban,Sedan,3044544,N
+Male,Yes,0,Graduate,No,12642,12392,1543361,360,1,Urban,Coupe,1795129,N
+Male,Yes,0,Graduate,Yes,52137,44724,2680943,360,1,Urban,Convertible,3999585,N
+Male,Yes,3+,Not Graduate,Yes,89832,32299,2228235,240,1,Semiurban,Hatchback,1914780,Y
+Female,Yes,1,Not Graduate,Yes,65561,15641,2425464,60,1,Urban,Hatchback,1159774,Y
+Male,Yes,3+,Not Graduate,Yes,72260,13998,2416796,180,0,Rural,Sedan,1631606,N
+Male,No,3+,Not Graduate,Yes,25438,6305,1786188,60,1,Semiurban,Truck,1668936,N
+Female,Yes,0,Not Graduate,No,58442,32726,933797,240,1,Rural,Coupe,2528217,Y
+Female,Yes,2,Not Graduate,Yes,12994,18782,1300607,120,1,Rural,SUV,1159297,Y
+Female,No,0,Not Graduate,Yes,11813,12721,2587784,60,1,Urban,SUV,1504366,N
+Male,Yes,2,Not Graduate,Yes,94381,39763,2734415,360,1,Rural,Hatchback,3291177,N
+Female,No,0,Graduate,No,65276,12427,2942730,180,0,Semiurban,Convertible,3064878,N
+Male,No,3+,Not Graduate,No,51243,46550,2284094,180,1,Rural,Hatchback,2054473,Y
+Male,No,0,Not Graduate,Yes,72912,20566,1402153,120,1,Rural,Sedan,3532156,Y
+Male,Yes,0,Graduate,No,70272,2230,2644797,60,1,Rural,Convertible,1662936,N
+Male,Yes,0,Not Graduate,No,52051,6511,739608,240,1,Rural,SUV,1812470,Y
+Female,Yes,3+,Graduate,No,88854,49280,1047571,120,1,Rural,Truck,1089306,Y
+Female,No,3+,Graduate,No,92736,42229,849115,60,1,Urban,Coupe,1542960,Y
+Male,Yes,3+,Not Graduate,No,75618,26177,602780,300,1,Semiurban,Coupe,1945819,Y
+Male,No,3+,Graduate,No,11920,4765,1971816,180,1,Urban,Sedan,2733969,N
+Male,Yes,2,Not Graduate,No,87219,20354,1991422,240,1,Semiurban,Hatchback,692803,Y
+Female,No,2,Graduate,Yes,86872,23929,1317166,360,0,Semiurban,Sedan,2159848,N
+Male,Yes,1,Graduate,Yes,91132,28820,1353159,240,1,Semiurban,Coupe,2442991,Y
+Male,Yes,3+,Graduate,No,12093,46040,1395596,360,0,Semiurban,SUV,3412035,N
+Female,Yes,2,Not Graduate,Yes,22905,29523,2931129,240,1,Semiurban,Coupe,2953039,N
+Female,No,0,Not Graduate,Yes,34351,5552,1083043,180,1,Rural,Convertible,1357906,Y
+Male,No,3+,Graduate,No,40981,627,2100720,360,1,Urban,Truck,2265472,Y
+Female,Yes,1,Graduate,Yes,83903,11989,2490242,60,1,Urban,Truck,3657878,Y
+Female,Yes,1,Not Graduate,No,80821,13780,2342995,360,1,Rural,Van,1299838,Y
+Male,No,1,Not Graduate,No,92289,6589,2693654,120,1,Semiurban,Coupe,3796581,N
+Female,No,0,Graduate,No,94021,34812,2469412,60,1,Urban,Coupe,1737065,Y
+Male,No,2,Graduate,Yes,88513,28128,1090611,120,0,Rural,Truck,1402479,N
+Female,Yes,0,Not Graduate,Yes,29874,45939,932206,240,1,Rural,Van,2458979,Y
+Male,No,3+,Not Graduate,Yes,60931,38652,1237902,60,1,Urban,Convertible,2438165,Y
+Male,Yes,1,Not Graduate,Yes,17674,27790,2027553,240,1,Urban,Hatchback,2091189,N
+Male,No,0,Not Graduate,No,60516,40953,928556,300,0,Semiurban,Coupe,2796908,N
+Female,Yes,0,Not Graduate,No,70686,249,2178083,240,1,Semiurban,Truck,2475516,Y
+Male,No,2,Graduate,Yes,79212,19309,2932620,240,1,Urban,Sedan,2614821,N
+Female,No,2,Not Graduate,No,12426,25901,2350697,120,1,Semiurban,Coupe,3510969,N
+Male,No,1,Graduate,No,78498,23576,2182620,360,1,Rural,Sedan,834154,Y
+Male,No,0,Not Graduate,Yes,39943,31508,980350,300,0,Semiurban,Convertible,707836,N
+Female,No,0,Graduate,No,76395,9175,996232,240,1,Semiurban,Coupe,2040866,Y
+Male,Yes,2,Not Graduate,Yes,54816,25464,2187023,240,1,Rural,Truck,632915,Y
+Male,No,0,Not Graduate,No,14138,16260,2249182,300,0,Semiurban,Convertible,696681,N
+Female,No,0,Graduate,Yes,85945,35440,2546719,300,1,Rural,Convertible,3172252,N
+Male,No,0,Graduate,No,14017,29546,1926548,60,1,Semiurban,Hatchback,1302491,N
+Male,Yes,2,Not Graduate,No,20451,40047,2346780,120,1,Urban,Coupe,1896989,N
+Male,No,1,Not Graduate,Yes,72956,41430,1375817,300,1,Semiurban,Sedan,1277150,Y
+Male,Yes,3+,Not Graduate,Yes,20278,1987,2524611,300,1,Urban,Sedan,3817568,N
+Female,No,1,Not Graduate,Yes,53764,49242,750231,180,1,Urban,Coupe,2622547,Y
+Female,No,3+,Not Graduate,Yes,11134,25105,1561516,360,1,Urban,Van,3928074,N
+Male,Yes,0,Graduate,No,72943,12948,880171,300,1,Urban,Hatchback,3527929,Y
+Female,No,1,Graduate,No,64318,13026,1041220,120,1,Urban,Hatchback,1778283,Y
+Male,Yes,3+,Not Graduate,Yes,70128,2773,1478935,360,0,Rural,Hatchback,1271469,N
+Female,Yes,2,Graduate,No,98056,45927,1573224,360,1,Rural,Sedan,2276984,Y
+Male,No,2,Graduate,Yes,31869,9878,1530451,240,1,Rural,Convertible,2821991,Y
+Male,Yes,1,Graduate,Yes,15039,42946,2630118,240,1,Urban,Truck,1768458,N
+Male,No,1,Not Graduate,No,31281,10377,920993,240,1,Semiurban,Van,2176099,Y
+Male,No,0,Graduate,No,20442,7347,2760791,240,1,Rural,Hatchback,2590651,N
+Male,Yes,1,Not Graduate,Yes,83788,33776,746331,180,1,Semiurban,Sedan,2160809,Y
+Male,Yes,0,Graduate,Yes,37586,3783,1591174,300,1,Semiurban,Sedan,1791378,Y
+Female,Yes,0,Not Graduate,Yes,63053,4298,690271,240,1,Urban,Convertible,1274456,Y
+Male,Yes,2,Graduate,No,60489,4668,907014,60,1,Urban,Coupe,3454233,Y
+Female,No,2,Not Graduate,No,93104,20671,1347516,240,1,Urban,Coupe,1393155,Y
+Male,No,3+,Not Graduate,No,96346,34820,2845156,300,1,Rural,Truck,1027169,N
+Female,Yes,2,Graduate,No,77087,34484,1503510,240,0,Urban,Truck,3429497,N
+Female,No,2,Not Graduate,Yes,22625,33078,517118,180,1,Rural,Hatchback,1371217,Y
+Female,No,1,Not Graduate,Yes,44397,47159,1571192,120,1,Rural,Truck,3055405,Y
+Male,No,2,Not Graduate,Yes,68671,20922,2729022,120,1,Rural,Hatchback,2397465,N
+Male,No,3+,Not Graduate,Yes,76897,34028,2360371,300,0,Rural,Van,2763567,N
+Female,Yes,1,Not Graduate,Yes,36149,45925,502795,120,1,Urban,Truck,2004181,Y
+Male,Yes,3+,Not Graduate,Yes,70030,20316,2071480,120,1,Rural,Convertible,971466,Y
+Female,No,2,Not Graduate,No,79906,11460,2430873,60,1,Urban,Hatchback,2570569,Y
+Male,Yes,3+,Not Graduate,No,15283,16968,1287163,300,0,Urban,Convertible,1688304,N
+Female,Yes,1,Graduate,Yes,17610,30266,2756246,300,1,Rural,Sedan,1816461,N
+Female,Yes,0,Graduate,Yes,53326,30209,2860901,120,1,Urban,Hatchback,647733,N
+Male,No,3+,Not Graduate,No,24924,24000,2760554,120,0,Semiurban,Sedan,1315122,N
+Female,No,3+,Not Graduate,No,86162,14011,919007,120,0,Urban,SUV,794977,N
+Male,No,1,Graduate,No,10869,2866,1901156,360,0,Urban,Convertible,3224006,N
+Female,Yes,1,Graduate,No,11014,47133,723034,180,1,Rural,SUV,1619816,Y
+Female,No,3+,Graduate,Yes,20103,5898,2172558,240,1,Rural,Hatchback,3228338,N
+Male,No,2,Not Graduate,Yes,92522,18395,1290671,180,1,Urban,Sedan,3985583,Y
+Male,Yes,3+,Graduate,Yes,43458,39019,2880159,300,1,Rural,Hatchback,1474645,N
+Male,No,1,Not Graduate,Yes,92409,37707,813559,60,1,Semiurban,SUV,2806456,Y
+Female,No,0,Not Graduate,Yes,33248,4006,568968,240,1,Semiurban,Hatchback,855734,Y
+Male,Yes,0,Graduate,No,99160,34393,993891,60,1,Rural,Van,2421620,Y
+Female,Yes,2,Not Graduate,Yes,53516,10956,1084718,360,1,Urban,Coupe,3726250,Y
+Female,Yes,3+,Not Graduate,No,39061,30663,1798648,300,1,Semiurban,SUV,2970950,Y
+Male,No,0,Not Graduate,Yes,34170,6078,2598667,360,1,Semiurban,Hatchback,3266952,N
+Male,No,3+,Not Graduate,Yes,18024,29631,2694358,300,1,Urban,Sedan,2716259,N
+Female,No,1,Graduate,Yes,92214,30140,2842434,60,1,Rural,Hatchback,901176,N
+Female,Yes,0,Graduate,Yes,95947,41691,2308566,60,1,Semiurban,Sedan,1571038,Y
+Male,Yes,2,Not Graduate,Yes,53803,3961,1342672,60,1,Urban,Coupe,1543423,Y
+Male,No,1,Not Graduate,No,29296,29277,2602738,300,1,Urban,Hatchback,2352829,N
+Male,No,2,Graduate,No,96664,41574,1518725,120,1,Semiurban,Truck,3017626,Y
+Male,Yes,1,Not Graduate,No,28257,31417,1269565,60,1,Rural,Truck,592889,Y
+Male,Yes,0,Graduate,Yes,22855,22484,2104050,360,0,Semiurban,Coupe,588952,N
+Female,Yes,2,Not Graduate,Yes,95178,18103,2617191,240,1,Urban,SUV,1217884,N
+Female,Yes,2,Not Graduate,No,30025,29345,2109425,300,1,Semiurban,Sedan,915331,Y
+Female,No,1,Graduate,Yes,14458,46326,2803707,360,0,Rural,Truck,1404498,N
+Female,Yes,2,Graduate,Yes,73610,39454,2039663,180,1,Urban,Van,3298945,Y
+Male,No,1,Graduate,No,80843,1587,1498899,180,0,Rural,SUV,721576,N
+Male,No,1,Graduate,Yes,93961,42571,1768306,240,0,Semiurban,Sedan,3602923,N
+Male,No,1,Not Graduate,No,59831,21031,2598729,120,1,Semiurban,Coupe,1243681,N
+Female,Yes,1,Graduate,Yes,53427,26212,607792,60,0,Rural,Truck,3095301,N
+Female,Yes,0,Not Graduate,No,48506,10350,2320844,300,1,Semiurban,Convertible,1365796,Y
+Male,Yes,1,Graduate,Yes,15668,18816,1787116,360,1,Rural,Hatchback,3453661,N
+Male,Yes,3+,Graduate,Yes,57195,20288,1451302,60,1,Semiurban,Coupe,2899940,Y
+Female,No,2,Not Graduate,No,83233,29432,510785,360,1,Rural,Sedan,2921939,Y
+Female,Yes,3+,Graduate,Yes,34417,44222,1620803,300,0,Rural,Sedan,3921183,N
+Male,Yes,0,Graduate,Yes,91982,48617,1405112,180,1,Urban,Sedan,3637877,Y
+Male,No,3+,Graduate,No,20751,6837,650653,60,1,Urban,Sedan,754084,Y
+Female,Yes,2,Graduate,Yes,56218,34217,2914488,240,1,Rural,Hatchback,629466,N
+Male,No,3+,Not Graduate,No,17352,20884,763606,120,1,Semiurban,SUV,3676259,Y
+Male,No,0,Not Graduate,Yes,89052,5454,2988144,240,1,Semiurban,Van,2611740,N
+Male,No,1,Graduate,Yes,98835,9424,2268109,120,1,Semiurban,Convertible,2740604,Y
+Female,No,3+,Graduate,Yes,38927,36885,1433015,360,0,Rural,Hatchback,3807657,N
+Female,No,0,Graduate,Yes,51094,41637,2248350,60,1,Rural,Sedan,2094575,Y
+Female,No,0,Not Graduate,No,64122,43618,2145437,60,0,Rural,Hatchback,1160457,N
+Female,No,2,Not Graduate,Yes,39493,18412,2821889,120,1,Rural,Coupe,2451356,N
+Female,No,2,Not Graduate,No,83539,47111,1394235,180,1,Urban,Van,2232329,Y
+Female,Yes,3+,Not Graduate,Yes,41707,39613,2086250,300,1,Rural,Sedan,2357084,Y
+Female,Yes,1,Graduate,Yes,78814,20142,886213,240,1,Semiurban,Convertible,1894994,Y
+Male,Yes,0,Graduate,Yes,17296,37392,1603036,360,1,Urban,Sedan,819753,N
+Male,Yes,3+,Graduate,Yes,35398,8848,2996589,240,0,Semiurban,Van,2046557,N
+Male,No,0,Not Graduate,No,45842,49317,916690,240,1,Rural,Convertible,3704208,Y
+Male,Yes,0,Graduate,No,23261,13136,1523577,360,0,Urban,Van,3390628,N
+Male,No,1,Not Graduate,No,86709,589,1663951,360,1,Rural,Convertible,3585689,Y
+Male,Yes,1,Not Graduate,No,66704,20908,652117,60,1,Urban,SUV,1274597,Y
+Male,Yes,3+,Graduate,Yes,77173,6509,1377751,240,1,Semiurban,Truck,555486,Y
+Female,Yes,1,Graduate,No,41781,40461,1665158,300,0,Rural,SUV,3700890,N
+Female,No,1,Graduate,No,23652,42222,1422426,300,1,Rural,Hatchback,1234647,Y
+Male,Yes,3+,Not Graduate,Yes,15103,49223,2315879,120,0,Urban,Hatchback,529882,N
+Male,No,1,Not Graduate,Yes,35500,44476,1178066,360,0,Urban,Convertible,3175518,N
+Female,No,2,Graduate,Yes,45529,45710,2377779,60,1,Rural,Sedan,3442318,Y
+Male,Yes,0,Graduate,Yes,28452,49420,2125199,300,1,Urban,Truck,1787256,N
+Male,Yes,0,Not Graduate,No,59393,9968,2301951,180,1,Rural,Coupe,2181594,Y
+Female,Yes,0,Graduate,No,41174,2462,552949,60,1,Urban,Coupe,674898,Y
+Male,No,0,Not Graduate,Yes,74450,9460,963930,60,1,Semiurban,Sedan,1898705,Y
+Female,Yes,3+,Not Graduate,Yes,45436,33783,2692710,300,1,Urban,Sedan,2903324,N
+Male,No,0,Graduate,Yes,57406,9275,1509260,180,1,Semiurban,SUV,2517411,Y
+Female,No,0,Graduate,No,73059,28677,1289148,120,1,Urban,Coupe,3110023,Y
+Female,Yes,0,Graduate,No,25954,13269,2015509,300,1,Urban,Convertible,1123226,N
+Female,Yes,0,Graduate,Yes,92722,406,2053091,180,1,Rural,Van,3239759,Y
+Male,No,2,Not Graduate,Yes,22356,7384,2669068,60,1,Urban,Hatchback,1056831,N
+Female,No,0,Not Graduate,No,12187,22553,1808166,180,1,Urban,Van,1148567,N
+Male,No,2,Not Graduate,Yes,87243,24366,2595104,60,1,Semiurban,SUV,2626514,N
+Male,Yes,3+,Graduate,Yes,45098,44036,2498053,300,0,Urban,Coupe,3017683,N
+Male,No,1,Not Graduate,No,31225,17369,1623270,360,1,Rural,Truck,2755970,Y
+Male,Yes,0,Graduate,Yes,13606,11795,1355126,300,1,Semiurban,Sedan,903273,Y
+Female,No,1,Graduate,No,67620,4485,1830728,240,1,Rural,Truck,3888449,Y
+Female,No,1,Graduate,Yes,42828,41669,1529242,240,1,Rural,Truck,1329347,Y
+Male,Yes,3+,Graduate,Yes,36489,2618,2667626,240,1,Rural,Coupe,1438565,N
+Male,No,1,Graduate,No,24387,30143,850068,300,0,Rural,Convertible,1189517,N
+Female,Yes,2,Graduate,No,79463,29425,1810624,120,1,Semiurban,SUV,873519,Y
+Male,Yes,1,Not Graduate,Yes,81832,22673,2329438,300,1,Urban,Sedan,3788122,Y
+Female,No,1,Graduate,No,12591,9603,2095368,360,1,Rural,Van,3068210,N
+Male,Yes,1,Not Graduate,Yes,58516,39696,1603546,180,1,Semiurban,Convertible,3417601,Y
+Male,Yes,0,Not Graduate,Yes,72061,5368,904911,300,1,Rural,Van,1343224,Y
+Female,No,0,Graduate,No,76736,4621,2480639,300,1,Urban,Hatchback,3542398,Y
+Male,Yes,2,Graduate,Yes,91257,14719,2237075,60,1,Semiurban,SUV,1776784,Y
+Female,Yes,2,Graduate,Yes,71753,29227,1669070,60,1,Semiurban,Convertible,2530888,Y
+Male,Yes,0,Not Graduate,No,94774,43894,671277,60,1,Urban,Convertible,1537904,Y
+Male,No,2,Graduate,No,21087,7566,991966,300,1,Semiurban,Van,1939918,Y
+Male,Yes,0,Not Graduate,Yes,40816,12306,2893455,120,0,Urban,Sedan,2352637,N
+Female,No,3+,Graduate,No,33408,24042,1861212,180,1,Semiurban,Hatchback,2694102,Y
+Male,No,1,Graduate,No,10136,15086,2186622,180,1,Semiurban,Van,674942,N
+Male,Yes,1,Not Graduate,No,27413,17387,2103344,360,1,Urban,Convertible,3710557,N
+Male,Yes,2,Not Graduate,No,69500,27042,2780315,120,1,Urban,SUV,3367042,N
+Male,Yes,0,Graduate,Yes,94514,23888,2969491,120,1,Semiurban,Convertible,2083452,N
+Female,No,0,Not Graduate,Yes,66358,26514,1727414,180,1,Semiurban,Coupe,2466522,Y
+Female,Yes,2,Not Graduate,Yes,76197,18323,2868561,240,1,Urban,SUV,1391712,N
+Male,Yes,0,Not Graduate,No,42854,18019,1881710,60,1,Urban,SUV,3093347,Y
+Female,Yes,3+,Not Graduate,No,86240,9890,2557797,60,1,Semiurban,Convertible,2543419,N
+Male,Yes,1,Not Graduate,No,26322,40863,1301818,180,1,Semiurban,Sedan,3948593,Y
+Male,Yes,2,Graduate,No,16968,45487,2439726,120,1,Semiurban,SUV,3289657,N
+Male,No,2,Graduate,No,37518,10283,1323857,360,1,Urban,Coupe,772743,Y
+Female,No,0,Not Graduate,No,61925,18279,2718787,240,1,Semiurban,Van,834738,N
+Female,Yes,2,Graduate,No,69848,46999,720935,180,1,Rural,Sedan,3073110,Y
+Female,Yes,3+,Graduate,Yes,11700,22908,1373420,60,1,Urban,Sedan,1232790,Y
+Female,Yes,0,Not Graduate,Yes,33199,47466,2307720,300,1,Semiurban,Sedan,2206875,Y
+Female,Yes,0,Graduate,No,54589,37952,2441345,120,0,Urban,SUV,2850008,N
+Female,No,0,Not Graduate,No,42115,35170,992503,300,1,Rural,Sedan,784293,Y
+Female,Yes,0,Not Graduate,No,71934,37663,718599,360,1,Urban,Convertible,3319079,Y
+Female,No,3+,Graduate,Yes,64316,44172,2835071,180,1,Semiurban,Sedan,3787008,N
+Female,No,0,Not Graduate,Yes,15520,47929,2033183,60,0,Rural,Coupe,697170,N
+Male,Yes,2,Not Graduate,No,46455,9343,2140307,240,1,Rural,Hatchback,1919754,Y
+Female,No,3+,Not Graduate,No,96465,10637,1840144,300,1,Semiurban,Coupe,1729140,Y
+Female,No,1,Not Graduate,Yes,51605,34724,1328416,240,1,Semiurban,SUV,3666679,Y
+Female,No,1,Not Graduate,Yes,24955,39791,2638657,360,1,Semiurban,Sedan,679992,N
+Female,No,2,Graduate,Yes,54049,29134,1444461,60,1,Urban,Sedan,1071054,Y
+Female,Yes,2,Graduate,Yes,23917,46830,1967256,300,1,Urban,Convertible,3805151,N
+Female,Yes,3+,Not Graduate,No,80293,47101,654721,360,0,Urban,Van,3074584,N
+Female,No,1,Not Graduate,Yes,88581,3907,2508145,240,0,Semiurban,Sedan,3208562,N
+Female,Yes,1,Graduate,Yes,74925,33575,1510165,240,1,Semiurban,Truck,1295740,Y
+Female,Yes,1,Not Graduate,No,80269,46799,636668,300,1,Urban,Coupe,3442836,Y
+Female,Yes,1,Graduate,Yes,40954,4827,778518,60,0,Rural,SUV,3065513,N
+Female,Yes,1,Not Graduate,Yes,82617,30607,1864359,240,1,Urban,Hatchback,3609687,Y
+Male,Yes,0,Not Graduate,Yes,51458,13699,1662586,180,1,Rural,Sedan,3728939,Y
+Male,No,2,Not Graduate,No,99037,37292,2103969,360,1,Semiurban,Hatchback,947095,Y
+Female,Yes,0,Not Graduate,Yes,31113,47961,1023472,300,1,Semiurban,Sedan,3772262,Y
+Female,Yes,1,Not Graduate,No,53939,25883,906884,120,1,Urban,SUV,3130160,Y
+Male,Yes,3+,Not Graduate,No,39345,48991,759021,120,1,Urban,Van,2985500,Y
